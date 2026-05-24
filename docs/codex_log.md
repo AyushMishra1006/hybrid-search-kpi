@@ -193,7 +193,40 @@ Each prompt targets a single file/function/test — no blanket prompts.
 
 ## Commit 13 — `feat: eval harness + 25 labeled queries + qrels`
 
-*(fill when committed)*
+**Prompt 1 (index.py):**
+> Write `backend/app/index.py` as the CLI entry point for building BM25 and vector indexes. Command: `python -m app.index --input data/processed/docs.jsonl`. Requirements: (1) load all docs from --input jsonl; (2) for each doc concatenate title + text as corpus_text; (3) call BM25Index.build(corpus_texts, doc_ids) then BM25Index.save(index_dir/bm25/); (4) call VectorIndex.build(corpus_texts, doc_ids) then VectorIndex.save(index_dir/vector/, corpus_hash); (5) derive index_dir as input_path.parent.parent/"index"; (6) compute corpus_hash with compute_corpus_hash(); (7) no hard-coded paths, CPU-only, type hints on all functions.
+
+**Output used:** Full index.py with _load_docs, _corpus_texts, build_bm25, build_vector, main helpers.
+
+**Edits made:**
+- Replaced Unicode arrow `→` with `->` in print statements — Windows cp1252 terminal can't encode `→` (P04 fix, same issue fixed in Session 4 for download_data.py/ingest.py).
+
+**Prompt 2 (eval.py):**
+> Write `backend/app/eval.py` with CLI: `python -m app.eval --queries ... --qrels ... --alpha 0.5 --normalization minmax`. Requirements: (1) load BM25 + VectorIndex + doc_store + HybridSearch from REPO_ROOT paths; (2) for each of 25 queries, call HybridSearch.search(top_k=10); (3) compute nDCG@10, Recall@10, MRR@10 using binary relevance from qrels; (4) average all 3 metrics across 25 queries; (5) append one CSV row to data/metrics/experiments.csv with columns: timestamp,git_commit,alpha,normalization,model,nDCG@10,Recall@10,MRR@10; (6) write header only if file is new; (7) REPO_ROOT = Path(__file__).resolve().parents[2].
+
+**Output used:** Full eval.py with ndcg_at_k, recall_at_k, mrr_at_k, run_eval, main.
+
+**Edits made:** None — worked on first run.
+
+**Prompt 3 (queries.jsonl + qrels.json):**
+> Write 25 evaluation queries and qrels based on actual article titles from data/raw/manifest.json (400 articles, wikimedia/wikipedia 20231101.simple). Queries should be natural-language questions that map to specific articles. qrels should list 3-5 relevant doc_ids per query matched against actual article titles.
+
+**Output used:** All 25 queries and qrels as written.
+
+**Edits made:** None — all 25 queries map to verified doc_ids from manifest.json.
+
+**5 experiment results:**
+| Run | Alpha | Norm | nDCG@10 | Recall@10 | MRR@10 |
+|-----|-------|------|---------|-----------|--------|
+| 1 | 0.5 | minmax | 0.9244 | 0.8100 | 1.0000 |
+| 2 | 0.5 | zscore | 0.9214 | 0.8200 | 1.0000 |
+| 3 | 0.3 | minmax | 0.9345 | 0.8200 | 1.0000 |
+| 4 | 0.7 | minmax | 0.9041 | 0.7600 | 0.9600 |
+| 5 | 0.9 | minmax | 0.8492 | 0.7267 | 0.9200 |
+
+**Normalization winner: minmax** (nDCG 0.9244 > 0.9214). **Best alpha: 0.3** (lean semantic). Logged as D22.
+
+**Document section satisfied:** Section 6.5 (≥5 experiments varying alpha, nDCG@10+Recall@10+MRR@10, results in experiments.csv), Section 6.2 (indexing CLI)
 
 ---
 

@@ -1,0 +1,2 @@
+TITLE: Data
+The word data means "known facts". Data especially refers to numbers, but can mean words, sounds, and images. Metadata is data about data. It is used to find data. Originally, data is the plural of the Latin word datum, from dare, meaning "give". Datum is rarely used in English. So data often gets used as if it were a singular word. Some people like to say "data are", not "data is". References Knowledge Computing Statistics

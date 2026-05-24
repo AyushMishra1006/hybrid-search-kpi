@@ -118,3 +118,15 @@ Bad input → HTTP 422. top_k > num_docs → `min(top_k, num_docs)` gracefully.
 **Decision:** Pure retrieval. No LLM. No feedback-driven re-ranking. /feedback logs human signals only.
 **Why:** This is a retrieval system, not a generation system. Reviewer expects ranked documents.
 **Document section:** 4 (system description)
+
+## D21 — index.py: CLI Orchestrator for Index Build
+**Decision:** `backend/app/index.py` added as the CLI entry point that orchestrates BM25 + vector index build. Derives output path as `input.parent.parent / "index"` from the `--input` docs.jsonl path.
+**Why:** This file was in the system design but missing from implementation. eval.py requires indexes to exist. Adding it resolves the gap without changing any other component.
+**Document section:** 6.2 (indexing pipeline)
+
+## D22 — Normalization Winner: minmax (empirically confirmed)
+**Decision:** min-max normalization is the primary strategy for all experiments.
+**Evidence:** Experiment 1 (alpha=0.5, minmax) nDCG@10=0.9244 vs Experiment 2 (alpha=0.5, zscore) nDCG@10=0.9214. minmax wins by 0.003.
+**Why theoretical:** minmax produces bounded [0,1] output — directly compatible with alpha weighting formula. zscore can be negative, making alpha-blended scores harder to interpret.
+**Alpha analysis:** Best alpha is 0.3 (lean semantic) with nDCG@10=0.9345. Heavy keyword (alpha=0.9) drops to 0.8492 — confirms semantic search dominates for this corpus.
+**Document section:** 6.3 (justify normalization in decision_log.md)

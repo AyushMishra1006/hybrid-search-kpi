@@ -1,0 +1,6 @@
+timestamp,git_commit,alpha,normalization,model,nDCG@10,Recall@10,MRR@10
+2026-05-24T06:46:48,e5a451e,0.5,minmax,all-MiniLM-L6-v2,0.9244,0.81,1.0
+2026-05-24T06:47:07,e5a451e,0.5,zscore,all-MiniLM-L6-v2,0.9214,0.82,1.0
+2026-05-24T06:47:28,e5a451e,0.3,minmax,all-MiniLM-L6-v2,0.9345,0.82,1.0
+2026-05-24T06:47:40,e5a451e,0.7,minmax,all-MiniLM-L6-v2,0.9041,0.76,0.96
+2026-05-24T06:47:52,e5a451e,0.9,minmax,all-MiniLM-L6-v2,0.8492,0.7267,0.92

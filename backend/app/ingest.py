@@ -85,7 +85,7 @@ def ingest(input_dir: Path, out_dir: Path) -> int:
             fh.write(json.dumps(record, ensure_ascii=False) + "\n")
             written += 1
 
-    print(f"Ingested {written} documents → {out_path}", flush=True)
+    print(f"Ingested {written} documents -> {out_path}", flush=True)
     return written
 
 

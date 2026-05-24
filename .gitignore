@@ -14,11 +14,11 @@ build/
 # Generated index artifacts (rebuilt by up.sh)
 data/index/
 data/processed/
-data/metrics/
 
-# Keep raw corpus and eval data (committed to repo)
+# Keep raw corpus, eval data, and experiments.csv (committed to repo)
 !data/raw/
 !data/eval/
+!data/metrics/experiments.csv
 
 # SQLite database
 *.db

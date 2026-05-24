@@ -54,7 +54,7 @@ def download(out_dir: Path = RAW_DIR, corpus_size: int = CORPUS_SIZE) -> None:
         print("ERROR: 'datasets' package not installed. Run: pip install datasets", file=sys.stderr)
         sys.exit(1)
 
-    dataset = load_dataset("wikipedia", "20220301.simple", split="train", trust_remote_code=True)
+    dataset = load_dataset("wikimedia/wikipedia", "20231101.simple", split="train")
 
     written = 0
     manifest: list[dict] = []
@@ -100,7 +100,7 @@ def download(out_dir: Path = RAW_DIR, corpus_size: int = CORPUS_SIZE) -> None:
 
     manifest_path = out_dir / "manifest.json"
     manifest_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-    print(f"Done. {written} articles → {out_dir}  |  manifest → {manifest_path}", flush=True)
+    print(f"Done. {written} articles -> {out_dir}  |  manifest -> {manifest_path}", flush=True)
 
 
 if __name__ == "__main__":

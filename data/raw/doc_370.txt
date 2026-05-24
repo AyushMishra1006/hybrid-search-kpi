@@ -1,0 +1,2 @@
+TITLE: Standard temperature and pressure
+In order to be able to reproduce experiments, standard conditions for temperature and pressure have been defined in different fields of science. Very often these are also called standard temperature and pressure. The table below gives some examples: References Measurement Engineering Chemistry Standards Thermodynamics

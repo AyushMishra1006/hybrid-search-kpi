@@ -1,0 +1,2002 @@
+[
+  {
+    "doc_id": "doc_001",
+    "title": "Alan Turing",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_002",
+    "title": "Adobe Illustrator",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_003",
+    "title": "Farming",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_004",
+    "title": "Arithmetic",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_005",
+    "title": "Addition",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_006",
+    "title": "Ad hominem",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_007",
+    "title": "Algebra",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_008",
+    "title": "Atom",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_009",
+    "title": "Astronomy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_010",
+    "title": "Anatomy",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_011",
+    "title": "Asteroid",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_012",
+    "title": "Application",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_013",
+    "title": "Animal",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_014",
+    "title": "Boot device",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_015",
+    "title": "Browser",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_016",
+    "title": "Being",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_017",
+    "title": "Black",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_018",
+    "title": "Bubonic plague",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_019",
+    "title": "Biology",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_020",
+    "title": "Botany",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_021",
+    "title": "Chemistry",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_022",
+    "title": "Computer science",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_023",
+    "title": "Computer",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_024",
+    "title": "Continent",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_025",
+    "title": "Classical element",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_026",
+    "title": "Cartography",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_027",
+    "title": "Creativity",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_028",
+    "title": "Cosmology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_029",
+    "title": "Cooking",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_030",
+    "title": "Chat",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_031",
+    "title": "Time Cube",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_032",
+    "title": "Census of Marine Life",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_033",
+    "title": "Civics",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_034",
+    "title": "Calculus",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_035",
+    "title": "Crust",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_036",
+    "title": "Comedy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_037",
+    "title": "Comet",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_038",
+    "title": "Cytology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_039",
+    "title": "Diarrhea",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_040",
+    "title": "Dimension",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_041",
+    "title": "Distance",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_042",
+    "title": "Depth",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_043",
+    "title": "Death",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_044",
+    "title": "Diesel-electric",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_045",
+    "title": "Earth science",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_046",
+    "title": "Earth",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_047",
+    "title": "Experiment",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_048",
+    "title": "Einstein on the Beach",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_049",
+    "title": "Ebola virus",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_050",
+    "title": "Ecology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_051",
+    "title": "Economics",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_052",
+    "title": "Chemical element",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_053",
+    "title": "Flame (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_054",
+    "title": "Fecund universes",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_055",
+    "title": "Food",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_056",
+    "title": "Fish",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_057",
+    "title": "Foot (human)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_058",
+    "title": "Fruit",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_059",
+    "title": "Farm",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_060",
+    "title": "GNU Free Documentation License",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_061",
+    "title": "Green",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_062",
+    "title": "Galaxy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_063",
+    "title": "Graph theory",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_064",
+    "title": "Health",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_065",
+    "title": "Healing",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_066",
+    "title": "Human body",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_067",
+    "title": "Hydrogen",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_068",
+    "title": "Helium",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_069",
+    "title": "Home page",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_070",
+    "title": "Hair",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_071",
+    "title": "Internet",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_072",
+    "title": "Island",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_073",
+    "title": "IELTS",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_074",
+    "title": "Ink",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_075",
+    "title": "Immunology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_076",
+    "title": "Jupiter",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_077",
+    "title": "Language",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_078",
+    "title": "Live",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_079",
+    "title": "Life",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_080",
+    "title": "Law",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_081",
+    "title": "Leather",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_082",
+    "title": "List of mathematics topics",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_083",
+    "title": "Linear algebra",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_084",
+    "title": "Mathematics",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_085",
+    "title": "Music",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_086",
+    "title": "Multiplication",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_087",
+    "title": "Microsoft",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_088",
+    "title": "Multiverse",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_089",
+    "title": "MediaWiki",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_090",
+    "title": "Margarine",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_091",
+    "title": "Milky Way",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_092",
+    "title": "Movement",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_093",
+    "title": "Metabolism",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_094",
+    "title": "Mass",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_095",
+    "title": "Mercury (planet)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_096",
+    "title": "Mars",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_097",
+    "title": "Mac OS",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_098",
+    "title": "Apple Macintosh",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_099",
+    "title": "Metre",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_100",
+    "title": "Molecule",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_101",
+    "title": "Mammal",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_102",
+    "title": "Number",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_103",
+    "title": "Name",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_104",
+    "title": "Internet slang",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_105",
+    "title": "Noun",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_106",
+    "title": "Natural resource",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_107",
+    "title": "Neptune",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_108",
+    "title": "1 (number)",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_109",
+    "title": "Oil",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_110",
+    "title": "Operating system",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_111",
+    "title": "Physics",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_112",
+    "title": "Proof",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_113",
+    "title": "Psychoneuroimmunology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_114",
+    "title": "Pet",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_115",
+    "title": "Product",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_116",
+    "title": "Platonic realism",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_117",
+    "title": "Potato",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_118",
+    "title": "Plant",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_119",
+    "title": "Probability",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_120",
+    "title": "Probability experiment",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_121",
+    "title": "Protein",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_122",
+    "title": "Periodic table",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_123",
+    "title": "Planet",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_124",
+    "title": "Police",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_125",
+    "title": "Pi",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_126",
+    "title": "Proper noun",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_127",
+    "title": "Recreation",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_128",
+    "title": "Red",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_129",
+    "title": "Roman Empire",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_130",
+    "title": "Substance",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_131",
+    "title": "Symbol",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_132",
+    "title": "Sound",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_133",
+    "title": "Science",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_134",
+    "title": "Sausage",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_135",
+    "title": "Slang",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_136",
+    "title": "Subtraction",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_137",
+    "title": "String theory",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_138",
+    "title": "Scientist",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_139",
+    "title": "Spirit",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_140",
+    "title": "Seed",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_141",
+    "title": "Skin",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_142",
+    "title": "Search engine",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_143",
+    "title": "Statistics",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_144",
+    "title": "Server",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_145",
+    "title": "Stream",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_146",
+    "title": "Solar System",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_147",
+    "title": "Saturn",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_148",
+    "title": "Slavery",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_149",
+    "title": "Soul",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_150",
+    "title": "Service economy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_151",
+    "title": "Scarcity",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_152",
+    "title": "Theatre",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_153",
+    "title": "Tree",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_154",
+    "title": "Tragedy (Greek theatre)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_155",
+    "title": "Taxonomy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_156",
+    "title": "The Sun",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_157",
+    "title": "Temple",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_158",
+    "title": "Universe",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_159",
+    "title": "Uranus",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_160",
+    "title": "Vocabulary",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_161",
+    "title": "Vegetable oil",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_162",
+    "title": "Volume",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_163",
+    "title": "Venus",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_164",
+    "title": "Virtual community",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_165",
+    "title": "World Wide Web",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_166",
+    "title": "Wiki",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_167",
+    "title": "Website",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_168",
+    "title": "Web browser",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_169",
+    "title": "Webpage",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_170",
+    "title": "Microsoft Windows",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_171",
+    "title": "Window",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_172",
+    "title": "War",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_173",
+    "title": "Yard (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_174",
+    "title": "Zoology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_175",
+    "title": "Zinc",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_176",
+    "title": "Zoo",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_177",
+    "title": "Prison",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_178",
+    "title": "Mercury",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_179",
+    "title": "Mercury (element)",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_180",
+    "title": "Climate",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_181",
+    "title": "Fold (geology)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_182",
+    "title": "Pacific Ocean",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_183",
+    "title": "Basket",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_184",
+    "title": "Software",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_185",
+    "title": "Wall",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_186",
+    "title": "Sociology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_187",
+    "title": "Sky",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_188",
+    "title": "IP address",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_189",
+    "title": "Corset",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_190",
+    "title": "General semantics",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_191",
+    "title": "Nitrogen",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_192",
+    "title": "Spamming",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_193",
+    "title": "Colour",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_194",
+    "title": "Scurvy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_195",
+    "title": "Ion",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_196",
+    "title": "Cognitive science",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_197",
+    "title": "Theology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_198",
+    "title": "Work",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_199",
+    "title": "Argon",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_200",
+    "title": "European Union",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_201",
+    "title": "Albert Einstein",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_202",
+    "title": "Radio telescope",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_203",
+    "title": "Light year",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_204",
+    "title": "LOL",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_205",
+    "title": "Engineering",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_206",
+    "title": "Communication",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_207",
+    "title": "Miracle",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_208",
+    "title": "English language",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_209",
+    "title": "Carnivore",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_210",
+    "title": "Developmental biology",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_211",
+    "title": "1924",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_212",
+    "title": "1929",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_213",
+    "title": "Outer space",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_214",
+    "title": "Natural satellite",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_215",
+    "title": "Gravity",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_216",
+    "title": "Centripetal force",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_217",
+    "title": "1925",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_218",
+    "title": "Emphysema",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_219",
+    "title": "Oxygen",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_220",
+    "title": "Blood",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_221",
+    "title": "Computer program",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_222",
+    "title": "Data",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_223",
+    "title": "Mars (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_224",
+    "title": "Jupiter (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_225",
+    "title": "Venus (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_226",
+    "title": "Saturn (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_227",
+    "title": "Uranus (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_228",
+    "title": "Neptune (disambiguation)",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_229",
+    "title": "Saarlouis",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_230",
+    "title": "Slope",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_231",
+    "title": "Topology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_232",
+    "title": "1933",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_233",
+    "title": "Census",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_234",
+    "title": "Star",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_235",
+    "title": "HTML",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_236",
+    "title": "Leg",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_237",
+    "title": "Aston Villa F.C.",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_238",
+    "title": "Birmingham City F.C.",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_239",
+    "title": "West Ham United F.C.",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_240",
+    "title": "Asteroid belt",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_241",
+    "title": "Gardening",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_242",
+    "title": "Force",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_243",
+    "title": "Mixture",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_244",
+    "title": "Chess",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_245",
+    "title": "Gold",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_246",
+    "title": "Kilogram",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_247",
+    "title": "Second",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_248",
+    "title": "M-theory",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_249",
+    "title": "Gas",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_250",
+    "title": "Family",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_251",
+    "title": "Wave (physics)",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_252",
+    "title": "Weapon",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_253",
+    "title": "Christmas cracker",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_254",
+    "title": "Floodlight",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_255",
+    "title": "Bankside",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_256",
+    "title": "Female",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_257",
+    "title": "Power",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_258",
+    "title": "Matrix",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_259",
+    "title": "Metal",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_260",
+    "title": "Aberystwyth Town F.C.",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_261",
+    "title": "Tributary",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_262",
+    "title": "Great Plains",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_263",
+    "title": "Mythology",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_264",
+    "title": "BBC",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_265",
+    "title": "Weather",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_266",
+    "title": "20th century",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_267",
+    "title": "Internet Explorer",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_268",
+    "title": "List of mathematicians",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_269",
+    "title": "Coat",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_270",
+    "title": "Head",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_271",
+    "title": "Jackknife",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_272",
+    "title": "Luffa",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_273",
+    "title": "Sconce",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_274",
+    "title": "Culture",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_275",
+    "title": "Houseplant",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_276",
+    "title": "Movie",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_277",
+    "title": "Isotope",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_278",
+    "title": "Power network",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_279",
+    "title": "Elephant",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_280",
+    "title": "Governor-general",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_281",
+    "title": "Black hole",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_282",
+    "title": "Fertilizer",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_283",
+    "title": "Military",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_284",
+    "title": "Photosynthesis",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_285",
+    "title": "Casserole",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_286",
+    "title": "Flea",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_287",
+    "title": "Hiroshima",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_288",
+    "title": "Advertising",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_289",
+    "title": "Buddha",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_290",
+    "title": "Schizophrenia",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_291",
+    "title": "Drink",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_292",
+    "title": "Need",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_293",
+    "title": "Freeware",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_294",
+    "title": "Yahoo!",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_295",
+    "title": "Leader",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_296",
+    "title": "Linux",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_297",
+    "title": "Open source",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_298",
+    "title": "Desktop environment",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_299",
+    "title": "OpenOffice.org",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_300",
+    "title": "Download",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_301",
+    "title": "GNOME",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_302",
+    "title": "Sin",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_303",
+    "title": "Electronics",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_304",
+    "title": "Photon",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_305",
+    "title": "Vector",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_306",
+    "title": "Physical exercise",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_307",
+    "title": "Rock",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_308",
+    "title": "Peninsula",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_309",
+    "title": "Derivation",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_310",
+    "title": "Combinatorial game theory",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_311",
+    "title": "Nim",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_312",
+    "title": "Blue",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_313",
+    "title": "Memory",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_314",
+    "title": "Bird",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_315",
+    "title": "Banana",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_316",
+    "title": "Swatch Internet Time",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_317",
+    "title": "Crucible",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_318",
+    "title": "Lithium",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_319",
+    "title": "Beryllium",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_320",
+    "title": "Data compression",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_321",
+    "title": "Compiler",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_322",
+    "title": "Eye",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_323",
+    "title": "Insect",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_324",
+    "title": "List of operating systems",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_325",
+    "title": "Computer jargon",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_326",
+    "title": "Epiphany (software)",
+    "category": "computer_science"
+  },
+  {
+    "doc_id": "doc_327",
+    "title": "Medicine",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_328",
+    "title": "Pantograph",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_329",
+    "title": "Glow-worm",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_330",
+    "title": "Polymer",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_331",
+    "title": "Medium",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_332",
+    "title": "Safety curtain",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_333",
+    "title": "Sex",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_334",
+    "title": "Shovel",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_335",
+    "title": "Plunger",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_336",
+    "title": "Oral history",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_337",
+    "title": "Generation",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_338",
+    "title": "Gene",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_339",
+    "title": "Alliteration",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_340",
+    "title": "Homophone",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_341",
+    "title": "Poetry",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_342",
+    "title": "Literature",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_343",
+    "title": "Calorimeter",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_344",
+    "title": "Bolus",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_345",
+    "title": "Dental floss",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_346",
+    "title": "Rickets",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_347",
+    "title": "Bile",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_348",
+    "title": "Dental pulp",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_349",
+    "title": "Protoplasm",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_350",
+    "title": "Amylase",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_351",
+    "title": "Variegated leaf",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_352",
+    "title": "Plaque",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_353",
+    "title": "Chemical cell",
+    "category": "biology"
+  },
+  {
+    "doc_id": "doc_354",
+    "title": "Dyadic",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_355",
+    "title": "Enzyme",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_356",
+    "title": "Machine code",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_357",
+    "title": "Area",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_358",
+    "title": "Air space",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_359",
+    "title": "Japanese language",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_360",
+    "title": "Hubble Space Telescope",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_361",
+    "title": "Motion sensor",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_362",
+    "title": "Arm",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_363",
+    "title": "2002",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_364",
+    "title": "1996",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_365",
+    "title": "1992",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_366",
+    "title": "2005",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_367",
+    "title": "1989",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_368",
+    "title": "Common year",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_369",
+    "title": "19th century",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_370",
+    "title": "Standard temperature and pressure",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_371",
+    "title": "Jungle",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_372",
+    "title": "Light",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_373",
+    "title": "Gambling",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_374",
+    "title": "Electron",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_375",
+    "title": "Video game",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_376",
+    "title": "Oboe",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_377",
+    "title": "GURPS",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_378",
+    "title": "2000",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_379",
+    "title": "Lake",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_380",
+    "title": "List of physics topics",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_381",
+    "title": "Galileo Galilei",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_382",
+    "title": "Water vapor",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_383",
+    "title": "Solid",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_384",
+    "title": "Contract",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_385",
+    "title": "Face",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_386",
+    "title": "Turing test",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_387",
+    "title": "Fuel",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_388",
+    "title": "Organic compound",
+    "category": "chemistry"
+  },
+  {
+    "doc_id": "doc_389",
+    "title": "Energy",
+    "category": "physics"
+  },
+  {
+    "doc_id": "doc_390",
+    "title": "Xenon",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_391",
+    "title": "Speed of light",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_392",
+    "title": "Body",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_393",
+    "title": "Alloy",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_394",
+    "title": "Brain",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_395",
+    "title": "Neuron",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_396",
+    "title": "Point (geometry)",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_397",
+    "title": "Plane (mathematics)",
+    "category": "mathematics"
+  },
+  {
+    "doc_id": "doc_398",
+    "title": "List of astrophysicists",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_399",
+    "title": "List of languages",
+    "category": "general_science"
+  },
+  {
+    "doc_id": "doc_400",
+    "title": "List of emotions",
+    "category": "physics"
+  }
+]
