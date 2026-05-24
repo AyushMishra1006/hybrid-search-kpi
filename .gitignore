@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Generated index artifacts (rebuilt by up.sh)
+data/index/
+data/processed/
+data/metrics/
+
+# Keep raw corpus and eval data (committed to repo)
+!data/raw/
+!data/eval/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Sentence-transformers model cache
+.cache/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
