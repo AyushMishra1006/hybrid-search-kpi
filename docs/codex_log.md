@@ -176,9 +176,18 @@ Each prompt targets a single file/function/test — no blanket prompts.
 
 ---
 
-## Commit 12 — `feat: SQLite schema v1 + structured JSON logging per request`
+## Commit 12 — `docs: architecture diagram, SQLite schema, hybrid scoring formula`
 
-*(fill when committed)*
+**Note:** SQLite schema (schema.py + logger.py) was implemented in Commit 10 since routes.py imports from db.logger — they are tightly coupled. Commit 12 is the architecture documentation written now that the full schema is finalized.
+
+**Prompt:**
+> Write `docs/architecture.md` with: (1) ASCII system diagram showing data flow from raw .txt files → ingest → index → FastAPI → React frontend; (2) numbered data flow steps (ingest → index → startup → search → eval); (3) full SQLite v1 schema (query_logs with severity column, relevance_feedback, schema_version) and v2 migration (ALTER TABLE ADD COLUMN alpha); (4) vector index metadata.json structure; (5) hybrid scoring formula with alpha extremes; (6) tech stack table.
+
+**Output used:** Full architecture.md as written.
+
+**Edits made:** None.
+
+**Document section satisfied:** Section 7 (README/docs with architecture overview), Section 6.6 (schema in docs/architecture.md per rubric)
 
 ---
 
