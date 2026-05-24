@@ -22,6 +22,8 @@ data/processed/
 
 # SQLite database
 *.db
+*.db-shm
+*.db-wal
 *.sqlite3
 
 # Environment variables

@@ -232,7 +232,37 @@ Each prompt targets a single file/function/test — no blanket prompts.
 
 ## Commit 14 — `feat: React frontend — Search page + KPI page`
 
-*(fill when committed)*
+**Prompt 1 (project setup):**
+> Initialize Vite+React project manually for `frontend/` (create-vite cancelled because directory not empty). Write: package.json (react 18, react-router-dom 6, recharts 2, vite 5, @vitejs/plugin-react 4), vite.config.js (port 5173, react plugin), index.html (standard Vite entry), src/main.jsx (ReactDOM.createRoot), src/index.css (global reset, em tag yellow highlight for search snippets), src/api.js (all fetch calls: search, getKPI, getLogs, getExperiments, postFeedback — one file, no duplication, BASE from VITE_API_URL env or localhost:8000).
+
+**Output used:** All setup files as written.
+
+**Edits made:** None.
+
+**Prompt 2 (App.jsx):**
+> Write `src/App.jsx` with BrowserRouter, NavLink navigation (Search / KPI / Eval / Debug), Routes for all 4 pages. Dark navbar (#1e293b), active link highlighted in blue (#2563eb). NavLink end prop on "/" to avoid always-active match.
+
+**Output used:** Full App.jsx as written.
+
+**Edits made:** None.
+
+**Prompt 3 (SearchPage.jsx):**
+> Write `src/pages/SearchPage.jsx`. Requirements: (1) query text input; (2) alpha range slider (0-1, step 0.1, default 0.5) showing current value; (3) top-K number input (1-50, default 10); (4) calls POST /search on submit; (5) shows latency_ms + result_count; (6) for each result: doc_id badge, title, snippet rendered as HTML (dangerouslySetInnerHTML for em highlight tags); (7) 3 score bars (BM25 blue, Vector green, Hybrid purple) with percentage labels. Loading state, error state, empty state.
+
+**Output used:** Full SearchPage.jsx with ScoreBar component as written.
+
+**Edits made:** None.
+
+**Prompt 4 (KPIPage.jsx):**
+> Write `src/pages/KPIPage.jsx`. Requirements: (1) calls GET /dashboard/kpi on mount; (2) latency_p50_ms and latency_p95_ms as cards; (3) request_volume as recharts LineChart with CartesianGrid, XAxis (formatted time), YAxis, Tooltip; (4) top_queries as table; (5) zero_result_queries as table. Graceful empty states for all sections.
+
+**Output used:** Full KPIPage.jsx with LatencyCard and QueryTable components as written.
+
+**Edits made:** None.
+
+**Build verification:** `vite build` passed — 837 modules, 0 errors, built in 4.03s.
+
+**Document section satisfied:** Section 6.4 (Search page with score breakdown, KPI page with p50/p95/volume/top-queries/zero-results), Section 5 (React+Vite frontend)
 
 ---
 
