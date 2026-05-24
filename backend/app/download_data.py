@@ -10,27 +10,12 @@ import re
 import sys
 from pathlib import Path
 
+from app.utils.preprocessing import assign_category  # single source of truth for category rules
+
 CORPUS_SIZE = 400
 SOURCE_NAME = "simple_wikipedia"
 CREATED_AT = "2022-03-01"
 RAW_DIR = Path(__file__).parent.parent.parent / "data" / "raw"
-
-CATEGORY_RULES: list[tuple[list[str], str]] = [
-    (["computer", "algorithm", "software", "internet", "robot", "program", "data", "network", "digital", "computing"], "computer_science"),
-    (["physics", "force", "gravity", "quantum", "atom", "energy", "motion", "particle", "wave", "relativity"], "physics"),
-    (["biology", "cell", "dna", "evolution", "gene", "organism", "species", "animal", "plant", "protein"], "biology"),
-    (["math", "geometry", "algebra", "calculus", "number", "equation", "theorem", "prime", "statistic"], "mathematics"),
-    (["chemistry", "element", "molecule", "reaction", "compound", "acid", "periodic", "bond", "solution"], "chemistry"),
-]
-
-
-def assign_category(title: str) -> str:
-    lower = title.lower()
-    for keywords, category in CATEGORY_RULES:
-        if any(kw in lower for kw in keywords):
-            return category
-    return "general_science"
-
 
 def _write_article(doc_id: str, title: str, text: str, out_dir: Path) -> str:
     """Write doc as TITLE: <title>\n<text body>. Returns derived category."""
