@@ -142,7 +142,24 @@ Each prompt targets a single file/function/test — no blanket prompts.
 
 ## Commit 10 — `feat: FastAPI app — /health /search /metrics /feedback endpoints`
 
-*(fill when committed)*
+**Prompt:**
+> In `backend/app/api/limiter.py`, create a single shared `Limiter` instance using slowapi with `get_remote_address` key function.
+> In `backend/app/db/schema.py`, implement `init_db(db_path) -> sqlite3.Connection` (creates query_logs v1 + relevance_feedback + schema_version tables, seeds version=1) and `check_and_migrate(conn)` (v1→v2: ALTER TABLE adds alpha REAL DEFAULT 0.5, inserts version=2). WAL mode, row_factory=sqlite3.Row.
+> In `backend/app/db/logger.py`, implement `log_query(conn, req_id, timestamp, query, latency_ms, top_k, alpha, result_count, severity, error)` and `log_feedback(conn, ...)` using INSERT OR IGNORE.
+> In `backend/app/api/routes.py`, implement all endpoints with Pydantic models. SearchRequest: query(min=1,max=1000), top_k(1-50), alpha(0.0-1.0), filters(dict). Endpoints: GET /health → {status,version,commit}; POST /search (rate-limited 30/min) → {results:[{doc_id,title,snippet,bm25_score,vector_score,hybrid_score}], query,latency_ms,result_count,filters_applied}; POST /feedback → 204; GET /metrics → Prometheus plain text; GET /dashboard/kpi → {latency_p50_ms,latency_p95_ms,request_volume,top_queries,zero_result_queries}; GET /dashboard/logs (query params: since,until,severity); GET /dashboard/experiments (reads experiments.csv). Each /search call: structured stdout JSON log + SQLite INSERT. Helpers: _percentile(), _emit_stdout_log(), _fetch_latencies(), _fetch_request_volume(), _fetch_top_queries(), _fetch_zero_result_queries(), _read_experiments(). All functions ≤ 40 lines, type hints on all signatures.
+> In `backend/app/api/main.py`, create FastAPI app with lifespan context: (1) VectorIndex.validate_metadata (Scenario A), (2) BM25Index.load, (3) VectorIndex.load, (4) _load_doc_store from docs.jsonl, (5) init_db + check_and_migrate (Scenario B), (6) HybridSearch wired into app.state. CORS allow_origins=*, slowapi rate limiter exception handler, include router from routes.py.
+
+**Output used:** All 5 files as described.
+
+**Edits made:**
+- DB layer (schema.py + logger.py) included in Commit 10 rather than deferred to Commit 12, because routes.py imports from db.logger — they are tightly coupled and separating would require stub placeholders. Commit 12 repurposed to docs/architecture.md.
+- `_emit_stdout_log` writes to sys.stdout with flush=True so logs appear in real-time during screen recording.
+- Used `INSERT OR IGNORE` on req_id (UUID primary key) so duplicate events on retry never corrupt the log.
+- `_REPO_ROOT = Path(__file__).resolve().parents[3]` — goes up 3 levels from app/api/ to repo root; no hard-coded absolute paths.
+- Added `_NOW = lambda` at module level in schema.py and routes.py as a DRY timestamp helper.
+- `candidate_k = max(top_k * 3, 30)` already in HybridSearch — no change needed in routes.
+
+**Document section satisfied:** Section 6.3 (all endpoints, hybrid scoring, rate limiting, input validation), Section 6.6 (structured logs, SQLite persistence, input validation), Section 9.2 (Scenario B check_and_migrate groundwork)
 
 ---
 
