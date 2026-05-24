@@ -165,7 +165,14 @@ Each prompt targets a single file/function/test — no blanket prompts.
 
 ## Commit 11 — `test: API contract tests — TestClient, verify score breakdown in response`
 
-*(fill when committed)*
+**Prompt:**
+> In `backend/tests/test_api.py`, write pytest contract tests for all API endpoints using FastAPI TestClient. Use a module-scoped fixture that: (1) builds a 5-doc toy BM25 + FAISS index in a tmp_path_factory temp dir; (2) writes docs.jsonl for those 5 docs; (3) patches the module-level path constants in app.api.main (_BM25_DIR, _VECTOR_DIR, _DOCS_JSONL, _DB_PATH) before the TestClient starts (which triggers lifespan). Tests: /health: 200, required fields {status,version,commit}, status=="OK". /search: 200, top-level fields {results,query,latency_ms,result_count,filters_applied}, each result has {bm25_score,vector_score,hybrid_score,doc_id,title,snippet}, result_count==len(results), query echoed, filters_applied echoed, top_k respected, latency_ms positive float, validation: empty query→422, top_k=0→422, top_k=51→422, alpha=1.5→422, alpha=1.0 works, alpha=0.0 works. /feedback: 204. /metrics: 200, content-type=text/plain, all 5 counter names present. /dashboard/kpi: required fields present. /dashboard/logs: returns list, severity filter accepted. /dashboard/experiments: returns list.
+
+**Output used:** Full test_api.py with 26 tests across 5 test classes.
+
+**Edits made:** None — all 26 tests passed on first run.
+
+**Document section satisfied:** Section 6.6 (unit tests for API contracts), Section 13 (reviewer checklist: /health and /search verified, score breakdown confirmed)
 
 ---
 
