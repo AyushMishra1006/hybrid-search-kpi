@@ -51,6 +51,9 @@ def check_and_migrate(conn: sqlite3.Connection) -> None:
     row = conn.execute("SELECT MAX(version) FROM schema_version").fetchone()
     current = row[0] if row[0] is not None else 1
     if current < 2:
+        # BREAK(B): NOT NULL without DEFAULT — SQLite rejects this at ALTER TABLE time.
+        # Every log write fails: "Cannot add a NOT NULL column with default value NULL."
+        # FIX: always supply DEFAULT when adding a NOT NULL column via ALTER TABLE.
         conn.execute("ALTER TABLE query_logs ADD COLUMN alpha REAL DEFAULT 0.5")
         conn.execute("INSERT INTO schema_version VALUES (2, ?)", (_NOW(),))
         conn.commit()
