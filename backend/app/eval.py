@@ -18,6 +18,7 @@ from pathlib import Path
 
 from app.search.bm25 import BM25Index
 from app.search.hybrid import HybridSearch
+from app.search.vector import MODEL_NAME as _MODEL_NAME
 from app.search.vector import VectorIndex
 
 _REPO_ROOT: Path = Path(__file__).resolve().parents[2]
@@ -30,7 +31,6 @@ _CSV_HEADER: list[str] = [
     "model", "nDCG@10", "Recall@10", "MRR@10",
 ]
 _TOP_K: int = 10
-_MODEL_NAME: str = "all-MiniLM-L6-v2"
 
 
 # ---------------------------------------------------------------------------
