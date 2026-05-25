@@ -11,7 +11,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, Body, HTTPException, Request
+from typing import Annotated
 from fastapi.responses import PlainTextResponse
 from pydantic import BaseModel, Field
 
@@ -157,7 +158,7 @@ def health(request: Request) -> dict:
 
 @router.post("/search", response_model=SearchResponse)
 @limiter.limit(_SEARCH_RATE)
-def search(request: Request, body: SearchRequest) -> SearchResponse:
+def search(request: Request, body: Annotated[SearchRequest, Body()]) -> SearchResponse:
     req_id = str(uuid.uuid4())
     timestamp = _NOW()
     conn: sqlite3.Connection = request.app.state.db
