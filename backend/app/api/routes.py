@@ -194,7 +194,7 @@ def search(request: Request, body: SearchRequest) -> SearchResponse:
     )
 
 
-@router.post("/feedback", status_code=204)
+@router.post("/feedback", status_code=204, response_model=None)
 def feedback(request: Request, body: FeedbackRequest) -> None:
     conn: sqlite3.Connection = request.app.state.db
     log_feedback(conn, str(uuid.uuid4()), _NOW(), body.query, body.doc_id, body.relevant)
