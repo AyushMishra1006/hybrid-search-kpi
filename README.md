@@ -50,14 +50,20 @@ and a React analytics dashboard.
 
 ## Quickstart
 
-**Prerequisites:** bash (or WSL on Windows), Python 3.11+, Node 18+
+**Prerequisites:** WSL (Ubuntu), Python 3.11+, Node 18+
 
 ```bash
-git clone <repo-url>
+# One-time system setup (WSL/Ubuntu only)
+sudo apt update && sudo apt install python3-full -y
+
+# Clone and run
+git clone https://github.com/AyushMishra1006/hybrid-search-kpi.git
 cd hybrid-search-kpi
-chmod +x up.sh
+chmod +x up.sh down.sh
 ./up.sh
 ```
+
+First run downloads PyTorch + the BGE embedding model (~300MB total) and builds the search indexes — allow ~10 minutes. Every subsequent run boots in under 10 seconds.
 
 `up.sh` is fully idempotent — safe to run twice. It creates the venv, installs
 dependencies, builds indexes (only if missing), and starts both servers.
