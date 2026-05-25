@@ -12,18 +12,14 @@ from pathlib import Path
 from typing import Any, Optional
 
 from fastapi import APIRouter, Body, HTTPException, Request
-from typing import Annotated
 from fastapi.responses import PlainTextResponse
 from pydantic import BaseModel, Field
-
-from app.api.limiter import limiter
 from app.db.logger import log_feedback, log_query
 
 router = APIRouter()
 
 _REPO_ROOT: Path = Path(__file__).resolve().parents[3]
 _EXPERIMENTS_CSV: Path = _REPO_ROOT / "data" / "metrics" / "experiments.csv"
-_SEARCH_RATE: str = "30/minute"
 
 _NOW = lambda: datetime.now(timezone.utc).isoformat()  # noqa: E731
 
@@ -157,8 +153,7 @@ def health(request: Request) -> dict:
 
 
 @router.post("/search", response_model=SearchResponse)
-@limiter.limit(_SEARCH_RATE)
-def search(request: Request, body: Annotated[SearchRequest, Body()]) -> SearchResponse:
+def search(request: Request, body: SearchRequest = Body()) -> SearchResponse:
     req_id = str(uuid.uuid4())
     timestamp = _NOW()
     conn: sqlite3.Connection = request.app.state.db
