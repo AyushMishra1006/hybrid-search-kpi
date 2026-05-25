@@ -28,10 +28,11 @@ export function getKPI() {
   return fetch(`${BASE}/dashboard/kpi`).then(_json)
 }
 
-export function getLogs(severity = '', timeRange = '') {
+export function getLogs(severity = '', since = '', until = '') {
   const p = new URLSearchParams()
   if (severity) p.set('severity', severity)
-  if (timeRange) p.set('time_range', timeRange)
+  if (since)    p.set('since', since)
+  if (until)    p.set('until', until)
   return fetch(`${BASE}/dashboard/logs?${p}`).then(_json)
 }
 
