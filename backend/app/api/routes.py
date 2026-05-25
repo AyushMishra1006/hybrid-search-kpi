@@ -45,6 +45,7 @@ class SearchResultItem(BaseModel):
     bm25_score: float
     vector_score: float
     hybrid_score: float
+    category: str = ""
 
 
 class SearchResponse(BaseModel):

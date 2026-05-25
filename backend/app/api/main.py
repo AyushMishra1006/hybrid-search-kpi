@@ -59,6 +59,7 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
 
     vector = VectorIndex()
     vector.load(_VECTOR_DIR)
+    vector.query("warmup", top_k=1)          # pre-loads model weights into RAM
 
     doc_store = _load_doc_store(_DOCS_JSONL)
 

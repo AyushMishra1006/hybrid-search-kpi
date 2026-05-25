@@ -20,6 +20,7 @@ class SearchResult:
     bm25_score: float
     vector_score: float
     hybrid_score: float
+    category: str = ""
 
 
 def minmax_normalize(scores: list[float]) -> list[float]:
@@ -127,4 +128,5 @@ class HybridSearch:
             bm25_score=round(bm25_score, 6),
             vector_score=round(vector_score, 6),
             hybrid_score=round(hybrid_score, 6),
+            category=doc.get("category", ""),
         )

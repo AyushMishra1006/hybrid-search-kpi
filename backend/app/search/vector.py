@@ -13,8 +13,10 @@ from typing import Any
 import faiss
 import numpy as np
 
-MODEL_NAME: str = "all-MiniLM-L6-v2"
+MODEL_NAME: str = "BAAI/bge-small-en-v1.5"
 DIMENSION: int = 384
+# BGE v1.5 retrieval: queries use this prefix; documents are indexed without it
+QUERY_PREFIX: str = "Represent this sentence for searching relevant passages: "
 
 _FAISS_FILENAME = "faiss.index"
 _IDS_FILENAME = "doc_ids.json"
@@ -39,15 +41,19 @@ class VectorIndex:
             self._model = SentenceTransformer(MODEL_NAME)
         return self._model
 
-    def _encode(self, texts: list[str]) -> np.ndarray:
-        """Encode texts and return L2-normalised float32 vectors."""
+    def _encode(self, texts: list[str], is_query: bool = False) -> np.ndarray:
+        """Encode texts and return L2-normalised float32 vectors.
+        Queries use QUERY_PREFIX for asymmetric retrieval; documents do not.
+        """
         model = self._get_model()
-        vecs: np.ndarray = model.encode(
-            texts,
+        kwargs: dict = dict(
             normalize_embeddings=True,
             show_progress_bar=False,
             convert_to_numpy=True,
-        ).astype(np.float32)
+        )
+        if is_query and QUERY_PREFIX:
+            kwargs["prompt"] = QUERY_PREFIX
+        vecs: np.ndarray = model.encode(texts, **kwargs).astype(np.float32)
         return vecs
 
     # ------------------------------------------------------------------
@@ -70,7 +76,7 @@ class VectorIndex:
         """
         if self._index is None:
             raise RuntimeError("VectorIndex is not built. Call build() or load() first.")
-        vec = self._encode([q])
+        vec = self._encode([q], is_query=True)
         k = min(top_k, self._index.ntotal)
         scores, indices = self._index.search(vec, k)
         results = [
