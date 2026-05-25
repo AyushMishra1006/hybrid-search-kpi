@@ -1,2002 +1,3602 @@
 [
   {
     "doc_id": "doc_001",
-    "title": "Alan Turing",
-    "category": "general_science"
+    "title": "p-DLA: A Predictive System Model for Onshore Oil and Gas Pipeline   Dataset Classification and Monitoring - Part 1",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00040",
+    "abstract_words": 194
   },
   {
     "doc_id": "doc_002",
-    "title": "Adobe Illustrator",
-    "category": "general_science"
+    "title": "A POS Tagger for Code Mixed Indian Social Media Text - ICON-2016 NLP   Tools Contest Entry from Surukam",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00066",
+    "abstract_words": 169
   },
   {
     "doc_id": "doc_003",
-    "title": "Farming",
-    "category": "general_science"
+    "title": "EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras   (Extended Abstract)",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00142",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_004",
-    "title": "Arithmetic",
-    "category": "general_science"
+    "title": "Expanding Subjective Lexicons for Social Media Mining with Embedding   Subspaces",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00145",
+    "abstract_words": 119
   },
   {
     "doc_id": "doc_005",
-    "title": "Addition",
-    "category": "general_science"
+    "title": "Improved Stereo Matching with Constant Highway Networks and Reflective   Confidence Learning",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00165",
+    "abstract_words": 159
   },
   {
     "doc_id": "doc_006",
-    "title": "Ad hominem",
-    "category": "general_science"
+    "title": "Aspect-augmented Adversarial Networks for Domain Adaptation",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00188",
+    "abstract_words": 124
   },
   {
     "doc_id": "doc_007",
-    "title": "Algebra",
-    "category": "mathematics"
+    "title": "Video-based Person Re-identification with Accumulative Motion Context",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00193",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_008",
-    "title": "Atom",
-    "category": "physics"
+    "title": "STRIPS Planning in Infinite Domains",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00287",
+    "abstract_words": 109
   },
   {
     "doc_id": "doc_009",
-    "title": "Astronomy",
-    "category": "general_science"
+    "title": "Patent Retrieval: A Literature Review",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00324",
+    "abstract_words": 188
   },
   {
     "doc_id": "doc_010",
-    "title": "Anatomy",
-    "category": "physics"
+    "title": "An affective computational model for machine consciousness",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00349",
+    "abstract_words": 183
   },
   {
     "doc_id": "doc_011",
-    "title": "Asteroid",
-    "category": "general_science"
+    "title": "Weakly Supervised Semantic Segmentation using Web-Crawled Videos",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00352",
+    "abstract_words": 156
   },
   {
     "doc_id": "doc_012",
-    "title": "Application",
-    "category": "general_science"
+    "title": "Retrieving Similar X-Ray Images from Big Image Data Using Radon Barcodes   with Single Projections",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00449",
+    "abstract_words": 178
   },
   {
     "doc_id": "doc_013",
-    "title": "Animal",
-    "category": "biology"
+    "title": "Conceptual Spaces for Cognitive Architectures: A Lingua Franca for   Different Levels of Representation",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00464",
+    "abstract_words": 207
   },
   {
     "doc_id": "doc_014",
-    "title": "Boot device",
-    "category": "general_science"
+    "title": "Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00561",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_015",
-    "title": "Browser",
-    "category": "general_science"
+    "title": "Shortcut Sequence Tagging",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00576",
+    "abstract_words": 117
   },
   {
     "doc_id": "doc_016",
-    "title": "Being",
-    "category": "general_science"
+    "title": "Deep Convolutional Neural Networks for Pairwise Causality",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00597",
+    "abstract_words": 152
   },
   {
     "doc_id": "doc_017",
-    "title": "Black",
-    "category": "general_science"
+    "title": "From Preference-Based to Multiobjective Sequential Decision-Making",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00646",
+    "abstract_words": 107
   },
   {
     "doc_id": "doc_018",
-    "title": "Bubonic plague",
-    "category": "general_science"
+    "title": "Product Manifold Filter: Non-Rigid Shape Correspondence via Kernel   Density Estimation in the Product Space",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00669",
+    "abstract_words": 129
   },
   {
     "doc_id": "doc_019",
-    "title": "Biology",
-    "category": "biology"
+    "title": "Using Big Data to Enhance the Bosch Production Line Performance: A   Kaggle Challenge",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00705",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_020",
-    "title": "Botany",
-    "category": "general_science"
+    "title": "Image denoising using group sparsity residual and external nonlocal   self-similarity prior",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00723",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_021",
-    "title": "Chemistry",
-    "category": "chemistry"
+    "title": "Constrained Deep Weak Supervision for Histopathology Image Segmentation",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00794",
+    "abstract_words": 179
   },
   {
     "doc_id": "doc_022",
-    "title": "Computer science",
-    "category": "computer_science"
+    "title": "Fuzzy Based Implicit Sentiment Analysis on Quantitative Sentences",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00798",
+    "abstract_words": 205
   },
   {
     "doc_id": "doc_023",
-    "title": "Computer",
-    "category": "computer_science"
+    "title": "Semi-Supervised Endmember Identification In Nonlinear Spectral Mixtures   Via Semantic Representation",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00804",
+    "abstract_words": 153
   },
   {
     "doc_id": "doc_024",
-    "title": "Continent",
-    "category": "general_science"
+    "title": "Learning a Mixture of Deep Networks for Single Image Super-Resolution",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00823",
+    "abstract_words": 192
   },
   {
     "doc_id": "doc_025",
-    "title": "Classical element",
-    "category": "chemistry"
+    "title": "Collapsing of dimensionality",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00831",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_026",
-    "title": "Cartography",
-    "category": "general_science"
+    "title": "Fuzzy finite element model updating using metaheuristic optimization   algorithms",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00833",
+    "abstract_words": 189
   },
   {
     "doc_id": "doc_027",
-    "title": "Creativity",
-    "category": "general_science"
+    "title": "A Hierarchical Image Matting Model for Blood Vessel Segmentation in   Fundus images",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00892",
+    "abstract_words": 149
   },
   {
     "doc_id": "doc_028",
-    "title": "Cosmology",
-    "category": "general_science"
+    "title": "Joint Semantic Synthesis and Morphological Analysis of the Derived Word",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00946",
+    "abstract_words": 194
   },
   {
     "doc_id": "doc_029",
-    "title": "Cooking",
-    "category": "general_science"
+    "title": "A Concave Optimization Algorithm for Matching Partially Overlapping   Point Sets",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00951",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_030",
-    "title": "Chat",
-    "category": "general_science"
+    "title": "An Evaluation Framework and Database for MoCap-Based Gait Recognition   Methods",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.00995",
+    "abstract_words": 145
   },
   {
     "doc_id": "doc_031",
-    "title": "Time Cube",
-    "category": "general_science"
+    "title": "Online Learning Sensing Matrix and Sparsifying Dictionary Simultaneously   for Compressive Sensing",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01000",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_032",
-    "title": "Census of Marine Life",
-    "category": "general_science"
+    "title": "Stochastic Planning and Lifted Inference",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01048",
+    "abstract_words": 174
   },
   {
     "doc_id": "doc_033",
-    "title": "Civics",
-    "category": "general_science"
+    "title": "Transforming Sensor Data to the Image Domain for Deep Learning - an   Application to Footstep Detection",
+    "category": "cs.CV",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01077",
+    "abstract_words": 127
   },
   {
     "doc_id": "doc_034",
-    "title": "Calculus",
-    "category": "mathematics"
+    "title": "Textual Entailment with Structured Attentions and Composition",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01126",
+    "abstract_words": 156
   },
   {
     "doc_id": "doc_035",
-    "title": "Crust",
-    "category": "general_science"
+    "title": "Temporal Effects on Hashtag Reuse in Twitter: A Cognitive-Inspired   Hashtag Recommendation Approach",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01276",
+    "abstract_words": 195
   },
   {
     "doc_id": "doc_036",
-    "title": "Comedy",
-    "category": "general_science"
+    "title": "NeuroRule: A Connectionist Approach to Data Mining",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01358",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_037",
-    "title": "Comet",
-    "category": "general_science"
+    "title": "Crime Topic Modeling",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01505",
+    "abstract_words": 217
   },
   {
     "doc_id": "doc_038",
-    "title": "Cytology",
-    "category": "general_science"
+    "title": "Replication issues in syntax-based aspect extraction for opinion mining",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01565",
+    "abstract_words": 143
   },
   {
     "doc_id": "doc_039",
-    "title": "Diarrhea",
-    "category": "general_science"
+    "title": "Real Multi-Sense or Pseudo Multi-Sense: An Approach to Improve Word   Representation",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01574",
+    "abstract_words": 137
   },
   {
     "doc_id": "doc_040",
-    "title": "Dimension",
-    "category": "general_science"
+    "title": "Enumeration of Extractive Oracle Summaries",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01614",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_041",
-    "title": "Distance",
-    "category": "general_science"
+    "title": "DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01724",
+    "abstract_words": 121
   },
   {
     "doc_id": "doc_042",
-    "title": "Depth",
-    "category": "general_science"
+    "title": "Neural Machine Translation on Scarce-Resource Condition: A case-study on   Persian-English",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01854",
+    "abstract_words": 141
   },
   {
     "doc_id": "doc_043",
-    "title": "Death",
-    "category": "general_science"
+    "title": "Deep Learning for Time-Series Analysis",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01887",
+    "abstract_words": 136
   },
   {
     "doc_id": "doc_044",
-    "title": "Diesel-electric",
-    "category": "general_science"
+    "title": "Sentence-level dialects identification in the greater China region",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.01908",
+    "abstract_words": 140
   },
   {
     "doc_id": "doc_045",
-    "title": "Earth science",
-    "category": "general_science"
+    "title": "Toward Active Learning in Cross-domain Recommender Systems",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02021",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_046",
-    "title": "Earth",
-    "category": "general_science"
+    "title": "Large-scale network motif analysis using compression",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02026",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_047",
-    "title": "Experiment",
-    "category": "general_science"
+    "title": "Personalised Query Suggestion for Intranet Search with Temporal User   Profiling",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02050",
+    "abstract_words": 172
   },
   {
     "doc_id": "doc_048",
-    "title": "Einstein on the Beach",
-    "category": "general_science"
+    "title": "Neural Personalized Response Generation as Domain Adaptation",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02073",
+    "abstract_words": 109
   },
   {
     "doc_id": "doc_049",
-    "title": "Ebola virus",
-    "category": "general_science"
+    "title": "Task-Specific Attentive Pooling of Phrase Alignments Contributes to   Sentence Matching",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02149",
+    "abstract_words": 156
   },
   {
     "doc_id": "doc_050",
-    "title": "Ecology",
-    "category": "general_science"
+    "title": "Stoic Ethics for Artificial Agents",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02388",
+    "abstract_words": 114
   },
   {
     "doc_id": "doc_051",
-    "title": "Economics",
-    "category": "general_science"
+    "title": "Predicting Citywide Crowd Flows Using Deep Spatio-Temporal Residual   Networks",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02543",
+    "abstract_words": 231
   },
   {
     "doc_id": "doc_052",
-    "title": "Chemical element",
-    "category": "chemistry"
+    "title": "IoFClime: The fuzzy logic and the Internet of Things to control indoor   temperature regarding the outdoor ambient conditions",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02545",
+    "abstract_words": 229
   },
   {
     "doc_id": "doc_053",
-    "title": "Flame (disambiguation)",
-    "category": "general_science"
+    "title": "Generalisation in Named Entity Recognition: A Quantitative Analysis",
+    "category": "cs.CL",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02877",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_054",
-    "title": "Fecund universes",
-    "category": "general_science"
+    "title": "The empirical Christoffel function with applications in data analysis",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.02886",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_055",
-    "title": "Food",
-    "category": "general_science"
+    "title": "A Framework for Knowledge Management and Automated Reasoning Applied on   Intelligent Transport Systems",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03000",
+    "abstract_words": 223
   },
   {
     "doc_id": "doc_056",
-    "title": "Fish",
-    "category": "general_science"
+    "title": "From First-Order Logic to Assertional Logic",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03322",
+    "abstract_words": 135
   },
   {
     "doc_id": "doc_057",
-    "title": "Foot (human)",
-    "category": "general_science"
+    "title": "A dissimilarity-based approach to predictive maintenance with   application to HVAC systems",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03633",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_058",
-    "title": "Fruit",
-    "category": "general_science"
+    "title": "Symbolic Regression Algorithms with Built-in Linear Regression",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03641",
+    "abstract_words": 144
   },
   {
     "doc_id": "doc_059",
-    "title": "Farm",
-    "category": "general_science"
+    "title": "On the links between argumentation-based reasoning and nonmonotonic   reasoning",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03714",
+    "abstract_words": 127
   },
   {
     "doc_id": "doc_060",
-    "title": "GNU Free Documentation License",
-    "category": "general_science"
+    "title": "Semantic Annotation for Microblog Topics Using Wikipedia Temporal   Information",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03939",
+    "abstract_words": 114
   },
   {
     "doc_id": "doc_061",
-    "title": "Green",
-    "category": "general_science"
+    "title": "Can We Find Documents in Web Archives without Knowing their Contents?",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.03942",
+    "abstract_words": 200
   },
   {
     "doc_id": "doc_062",
-    "title": "Galaxy",
-    "category": "general_science"
+    "title": "Field-aware Factorization Machines in a Real-world Online Advertising   System",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04099",
+    "abstract_words": 106
   },
   {
     "doc_id": "doc_063",
-    "title": "Graph theory",
-    "category": "general_science"
+    "title": "Hierarchical Re-estimation of Topic Models for Measuring Topical   Diversity",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04273",
+    "abstract_words": 163
   },
   {
     "doc_id": "doc_064",
-    "title": "Health",
-    "category": "general_science"
+    "title": "Online Learning with Regularized Kernel for One-class Classification",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04508",
+    "abstract_words": 244
   },
   {
     "doc_id": "doc_065",
-    "title": "Healing",
-    "category": "general_science"
+    "title": "Multiobjective Optimization of Solar Powered Irrigation System with   Fuzzy Type-2 Noise Modelling",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04569",
+    "abstract_words": 149
   },
   {
     "doc_id": "doc_066",
-    "title": "Human body",
-    "category": "general_science"
+    "title": "Intrinsically Motivated Acquisition of Modular Slow Features for   Humanoids in Continuous and Non-Stationary Environments",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04663",
+    "abstract_words": 225
   },
   {
     "doc_id": "doc_067",
-    "title": "Hydrogen",
-    "category": "general_science"
+    "title": "Adversarial Variational Bayes: Unifying Variational Autoencoders and   Generative Adversarial Networks",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04722",
+    "abstract_words": 147
   },
   {
     "doc_id": "doc_068",
-    "title": "Helium",
-    "category": "general_science"
+    "title": "Characterizing Linguistic Attributes for Automatic Classification of   Intent Based Racist/Radicalized Posts on Tumblr Micro-Blogging Website",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04931",
+    "abstract_words": 151
   },
   {
     "doc_id": "doc_069",
-    "title": "Home page",
-    "category": "general_science"
+    "title": "Investigating the Application of Common-Sense Knowledge-Base for   Identifying Term Obfuscation in Adversarial Communication",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.04934",
+    "abstract_words": 234
   },
   {
     "doc_id": "doc_070",
-    "title": "Hair",
-    "category": "general_science"
+    "title": "Highly Efficient Hierarchical Online Nonlinear Regression Using Second   Order Methods",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.05053",
+    "abstract_words": 203
   },
   {
     "doc_id": "doc_071",
-    "title": "Internet",
-    "category": "computer_science"
+    "title": "Ontology based system to guide internship assignment process",
+    "category": "cs.AI",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.05059",
+    "abstract_words": 171
   },
   {
     "doc_id": "doc_072",
-    "title": "Island",
-    "category": "general_science"
+    "title": "Comparison of the Efficiency of Different Algorithms on Recommendation   System Design: a Case Study",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.05149",
+    "abstract_words": 143
   },
   {
     "doc_id": "doc_073",
-    "title": "IELTS",
-    "category": "general_science"
+    "title": "The Parallel Distributed Image Search Engine (ParaDISE)",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.05596",
+    "abstract_words": 217
   },
   {
     "doc_id": "doc_074",
-    "title": "Ink",
-    "category": "general_science"
+    "title": "A Contextual Bandit Approach for Stream-Based Active Learning",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.06725",
+    "abstract_words": 258
   },
   {
     "doc_id": "doc_075",
-    "title": "Immunology",
-    "category": "general_science"
+    "title": "On the Effectiveness of Discretizing Quantitative Attributes in Linear   Classifiers",
+    "category": "cs.LG",
+    "year": "2017",
+    "created_at": "2017-01-01",
+    "arxiv_id": "1701.07114",
+    "abstract_words": 206
   },
   {
     "doc_id": "doc_076",
-    "title": "Jupiter",
-    "category": "general_science"
+    "title": "Inferring Conceptual Relationships When Ranking Patients",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-02-01",
+    "arxiv_id": "1702.00171",
+    "abstract_words": 223
   },
   {
     "doc_id": "doc_077",
-    "title": "Language",
-    "category": "general_science"
+    "title": "Semantic URL Analytics to Support Efficient Annotation of Large Scale   Web Archives",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-02-01",
+    "arxiv_id": "1702.00619",
+    "abstract_words": 201
   },
   {
     "doc_id": "doc_078",
-    "title": "Live",
-    "category": "general_science"
+    "title": "Neural Feature Embedding for User Response Prediction in Real-Time   Bidding (RTB)",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-02-01",
+    "arxiv_id": "1702.00855",
+    "abstract_words": 132
   },
   {
     "doc_id": "doc_079",
-    "title": "Life",
-    "category": "general_science"
+    "title": "Tempas: Temporal Archive Search Based on Tags",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-02-01",
+    "arxiv_id": "1702.01076",
+    "abstract_words": 219
   },
   {
     "doc_id": "doc_080",
-    "title": "Law",
-    "category": "general_science"
+    "title": "On the Applicability of Delicious for Temporal Search on Web Archives",
+    "category": "cs.IR",
+    "year": "2017",
+    "created_at": "2017-02-01",
+    "arxiv_id": "1702.01159",
+    "abstract_words": 180
   },
   {
     "doc_id": "doc_081",
-    "title": "Leather",
-    "category": "general_science"
+    "title": "Personal Names in Modern Turkey",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00049",
+    "abstract_words": 243
   },
   {
     "doc_id": "doc_082",
-    "title": "List of mathematics topics",
-    "category": "mathematics"
+    "title": "Deep Reinforcement Learning for Unsupervised Video Summarization with   Diversity-Representativeness Reward",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00054",
+    "abstract_words": 187
   },
   {
     "doc_id": "doc_083",
-    "title": "Linear algebra",
-    "category": "mathematics"
+    "title": "Deformable GANs for Pose-based Human Image Generation",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00055",
+    "abstract_words": 148
   },
   {
     "doc_id": "doc_084",
-    "title": "Mathematics",
-    "category": "mathematics"
+    "title": "The CAPIO 2017 Conversational Speech Recognition System",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00059",
+    "abstract_words": 174
   },
   {
     "doc_id": "doc_085",
-    "title": "Music",
-    "category": "general_science"
+    "title": "Bidirectional Attention for SQL Generation",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00076",
+    "abstract_words": 112
   },
   {
     "doc_id": "doc_086",
-    "title": "Multiplication",
-    "category": "general_science"
+    "title": "Face Synthesis from Visual Attributes via Sketch using Conditional VAEs   and GANs",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00077",
+    "abstract_words": 170
   },
   {
     "doc_id": "doc_087",
-    "title": "Microsoft",
-    "category": "general_science"
+    "title": "Theory of Deep Learning III: explaining the non-overfitting puzzle",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00173",
+    "abstract_words": 257
   },
   {
     "doc_id": "doc_088",
-    "title": "Multiverse",
-    "category": "general_science"
+    "title": "A Real-time and Registration-free Framework for Dynamic Shape   Instantiation",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00182",
+    "abstract_words": 228
   },
   {
     "doc_id": "doc_089",
-    "title": "MediaWiki",
-    "category": "general_science"
+    "title": "A Unified Method for First and Third Person Action Recognition",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00192",
+    "abstract_words": 169
   },
   {
     "doc_id": "doc_090",
-    "title": "Margarine",
-    "category": "general_science"
+    "title": "Integrating semi-supervised label propagation and random forests for   multi-atlas based hippocampus segmentation",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00223",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_091",
-    "title": "Milky Way",
-    "category": "general_science"
+    "title": "Transfer learning for diagnosis of congenital abnormalities of the   kidney and urinary tract in children based on Ultrasound imaging data",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00224",
+    "abstract_words": 153
   },
   {
     "doc_id": "doc_092",
-    "title": "Movement",
-    "category": "general_science"
+    "title": "Context aware saliency map generation using semantic segmentation",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00256",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_093",
-    "title": "Metabolism",
-    "category": "general_science"
+    "title": "Interactive Video Object Segmentation in the Wild",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00269",
+    "abstract_words": 157
   },
   {
     "doc_id": "doc_094",
-    "title": "Mass",
-    "category": "general_science"
+    "title": "Deep Stacked Networks with Residual Polishing for Image Inpainting",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00289",
+    "abstract_words": 167
   },
   {
     "doc_id": "doc_095",
-    "title": "Mercury (planet)",
-    "category": "general_science"
+    "title": "Error-Robust Multi-View Clustering",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00384",
+    "abstract_words": 196
   },
   {
     "doc_id": "doc_096",
-    "title": "Mars",
-    "category": "general_science"
+    "title": "PronouncUR: An Urdu Pronunciation Lexicon Generator",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00409",
+    "abstract_words": 163
   },
   {
     "doc_id": "doc_097",
-    "title": "Mac OS",
-    "category": "general_science"
+    "title": "Sanskrit Sandhi Splitting using seq2(seq)^2",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00428",
+    "abstract_words": 157
   },
   {
     "doc_id": "doc_098",
-    "title": "Apple Macintosh",
-    "category": "general_science"
+    "title": "Facial emotion recognition using min-max similarity classifier",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00451",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_099",
-    "title": "Metre",
-    "category": "general_science"
+    "title": "Quality assessment metrics for edge detection and edge-aware filtering:   A tutorial review",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00454",
+    "abstract_words": 133
   },
   {
     "doc_id": "doc_100",
-    "title": "Molecule",
-    "category": "chemistry"
+    "title": "Script Identification in Natural Scene Image and Video Frame using   Attention based Convolutional-LSTM Network",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00470",
+    "abstract_words": 175
   },
   {
     "doc_id": "doc_101",
-    "title": "Mammal",
-    "category": "general_science"
+    "title": "Aggregated Channels Network for Real-Time Pedestrian Detection",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00476",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_102",
-    "title": "Number",
-    "category": "mathematics"
+    "title": "Depth-Adaptive Computational Policies for Efficient Visual Tracking",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00508",
+    "abstract_words": 144
   },
   {
     "doc_id": "doc_103",
-    "title": "Name",
-    "category": "general_science"
+    "title": "Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs   for Contour Prediction",
+    "category": "cs.CV",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00524",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_104",
-    "title": "Internet slang",
-    "category": "computer_science"
+    "title": "Learning Multimodal Word Representation via Dynamic Fusion Methods",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00532",
+    "abstract_words": 114
   },
   {
     "doc_id": "doc_105",
-    "title": "Noun",
-    "category": "general_science"
+    "title": "An Attentive Sequence Model for Adverse Drug Event Extraction from   Biomedical Text",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00625",
+    "abstract_words": 130
   },
   {
     "doc_id": "doc_106",
-    "title": "Natural resource",
-    "category": "general_science"
+    "title": "A total uncertainty measure for D numbers based on belief intervals",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00702",
+    "abstract_words": 100
   },
   {
     "doc_id": "doc_107",
-    "title": "Neptune",
-    "category": "general_science"
+    "title": "Identifying emergency stages in Facebook posts of police departments   with convolutional and recurrent neural networks and support vector machines",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.00801",
+    "abstract_words": 120
   },
   {
     "doc_id": "doc_108",
-    "title": "1 (number)",
-    "category": "mathematics"
+    "title": "ViZDoom: DRQN with Prioritized Experience Replay, Double-Q Learning, &   Snapshot Ensembling",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01000",
+    "abstract_words": 190
   },
   {
     "doc_id": "doc_109",
-    "title": "Oil",
-    "category": "general_science"
+    "title": "Polynomial-based rotation invariant features",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01058",
+    "abstract_words": 180
   },
   {
     "doc_id": "doc_110",
-    "title": "Operating system",
-    "category": "general_science"
+    "title": "Predicting Chronic Disease Hospitalizations from Electronic Health   Records: An Interpretable Classification Approach",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01204",
+    "abstract_words": 174
   },
   {
     "doc_id": "doc_111",
-    "title": "Physics",
-    "category": "physics"
+    "title": "Practical Challenges in Explicit Ethical Machine Reasoning",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01422",
+    "abstract_words": 114
   },
   {
     "doc_id": "doc_112",
-    "title": "Proof",
-    "category": "general_science"
+    "title": "Intelligence Graph",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01604",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_113",
-    "title": "Psychoneuroimmunology",
-    "category": "general_science"
+    "title": "Learning $3$D-FilterMap for Deep Convolutional Neural Networks",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01609",
+    "abstract_words": 188
   },
   {
     "doc_id": "doc_114",
-    "title": "Pet",
-    "category": "general_science"
+    "title": "Gatekeeping Algorithms with Human Ethical Bias: The ethics of algorithms   in archives, libraries and society",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01705",
+    "abstract_words": 187
   },
   {
     "doc_id": "doc_115",
-    "title": "Product",
-    "category": "general_science"
+    "title": "A Multi-task Learning Approach for Improving Product Title Compression   with User Search Log Data",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01725",
+    "abstract_words": 170
   },
   {
     "doc_id": "doc_116",
-    "title": "Platonic realism",
-    "category": "general_science"
+    "title": "Entropy production rate as a criterion for inconsistency in decision   theory",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01733",
+    "abstract_words": 196
   },
   {
     "doc_id": "doc_117",
-    "title": "Potato",
-    "category": "general_science"
+    "title": "A Greedy Search Tree Heuristic for Symbolic Regression",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01807",
+    "abstract_words": 200
   },
   {
     "doc_id": "doc_118",
-    "title": "Plant",
-    "category": "biology"
+    "title": "Distance formulas capable of unifying Euclidian space and probability   space",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01972",
+    "abstract_words": 232
   },
   {
     "doc_id": "doc_119",
-    "title": "Probability",
-    "category": "general_science"
+    "title": "Using reinforcement learning to learn how to play text-based games",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.01999",
+    "abstract_words": 120
   },
   {
     "doc_id": "doc_120",
-    "title": "Probability experiment",
-    "category": "general_science"
+    "title": "Explorations in an English Poetry Corpus: A Neurocognitive Poetics   Perspective",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02054",
+    "abstract_words": 148
   },
   {
     "doc_id": "doc_121",
-    "title": "Protein",
-    "category": "biology"
+    "title": "Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for   Network-wide Traffic Speed Prediction",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02143",
+    "abstract_words": 205
   },
   {
     "doc_id": "doc_122",
-    "title": "Periodic table",
-    "category": "chemistry"
+    "title": "Covariant Compositional Networks For Learning Graphs",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02144",
+    "abstract_words": 129
   },
   {
     "doc_id": "doc_123",
-    "title": "Planet",
-    "category": "general_science"
+    "title": "Winograd Schema - Knowledge Extraction Using Narrative Chains",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02281",
+    "abstract_words": 125
   },
   {
     "doc_id": "doc_124",
-    "title": "Police",
-    "category": "general_science"
+    "title": "Analyzing Roles of Classifiers and Code-Mixed factors for Sentiment   Identification",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02581",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_125",
-    "title": "Pi",
-    "category": "general_science"
+    "title": "Web2Text: Deep Structured Boilerplate Removal",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02607",
+    "abstract_words": 111
   },
   {
     "doc_id": "doc_126",
-    "title": "Proper noun",
-    "category": "general_science"
+    "title": "A Machine Learning Framework for Register Placement Optimization in   Digital Circuit Design",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02620",
+    "abstract_words": 187
   },
   {
     "doc_id": "doc_127",
-    "title": "Recreation",
-    "category": "general_science"
+    "title": "Graph Memory Networks for Molecular Activity Prediction",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02622",
+    "abstract_words": 230
   },
   {
     "doc_id": "doc_128",
-    "title": "Red",
-    "category": "general_science"
+    "title": "Term Relevance Feedback for Contextual Named Entity Retrieval",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02687",
+    "abstract_words": 145
   },
   {
     "doc_id": "doc_129",
-    "title": "Roman Empire",
-    "category": "general_science"
+    "title": "Distributed Deep Reinforcement Learning: Learn how to play Atari games   in 21 minutes",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02852",
+    "abstract_words": 134
   },
   {
     "doc_id": "doc_130",
-    "title": "Substance",
-    "category": "general_science"
+    "title": "Denotation Extraction for Interactive Learning in Dialogue Systems",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.02916",
+    "abstract_words": 102
   },
   {
     "doc_id": "doc_131",
-    "title": "Symbol",
-    "category": "general_science"
+    "title": "Abstract: Probabilistic Prognostic Estimates of Survival in Metastatic   Cancer Patients",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03058",
+    "abstract_words": 176
   },
   {
     "doc_id": "doc_132",
-    "title": "Sound",
-    "category": "general_science"
+    "title": "Deep In-GPU Experience Replay",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03138",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_133",
-    "title": "Science",
-    "category": "general_science"
+    "title": "A Formalization of Kant's Second Formulation of the Categorical   Imperative",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03160",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_134",
-    "title": "Sausage",
-    "category": "general_science"
+    "title": "eCommerceGAN : A Generative Adversarial Network for E-commerce",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03244",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_135",
-    "title": "Slang",
-    "category": "general_science"
+    "title": "Translating Pro-Drop Languages with Reconstruction Models",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03257",
+    "abstract_words": 163
   },
   {
     "doc_id": "doc_136",
-    "title": "Subtraction",
-    "category": "general_science"
+    "title": "Reasoning about Unforeseen Possibilities During Policy Learning",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03331",
+    "abstract_words": 147
   },
   {
     "doc_id": "doc_137",
-    "title": "String theory",
-    "category": "general_science"
+    "title": "Planning with Pixels in (Almost) Real Time",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03354",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_138",
-    "title": "Scientist",
-    "category": "general_science"
+    "title": "Axiomatizations of inconsistency indices for triads",
+    "category": "cs.AI",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03355",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_139",
-    "title": "Spirit",
-    "category": "general_science"
+    "title": "DeepSeek: Content Based Image Search & Retrieval",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03406",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_140",
-    "title": "Seed",
-    "category": "general_science"
+    "title": "Blessing of dimensionality: mathematical foundations of the statistical   physics of data",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03421",
+    "abstract_words": 239
   },
   {
     "doc_id": "doc_141",
-    "title": "Skin",
-    "category": "general_science"
+    "title": "A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual   Bandit Problem",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03423",
+    "abstract_words": 188
   },
   {
     "doc_id": "doc_142",
-    "title": "Search engine",
-    "category": "general_science"
+    "title": "MilkQA: a Dataset of Consumer Questions for the Task of Answer Selection",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03460",
+    "abstract_words": 196
   },
   {
     "doc_id": "doc_143",
-    "title": "Statistics",
-    "category": "mathematics"
+    "title": "Discrete symbolic optimization and Boltzmann sampling by continuous   neural dynamics: Gradient Symbolic Computation",
+    "category": "cs.CL",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03562",
+    "abstract_words": 107
   },
   {
     "doc_id": "doc_144",
-    "title": "Server",
-    "category": "general_science"
+    "title": "Applying Vector Space Model (VSM) Techniques in Information Retrieval   for Arabic Language",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03627",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_145",
-    "title": "Stream",
-    "category": "general_science"
+    "title": "Enhancing Translation Language Models with Word Embedding for   Information Retrieval",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.03844",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_146",
-    "title": "Solar System",
-    "category": "general_science"
+    "title": "A Hardware-Friendly Algorithm for Scalable Training and Deployment of   Dimensionality Reduction Models on FPGA",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.04014",
+    "abstract_words": 110
   },
   {
     "doc_id": "doc_147",
-    "title": "Saturn",
-    "category": "general_science"
+    "title": "Cost-Sensitive Convolution based Neural Networks for Imbalanced   Time-Series Classification",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.04396",
+    "abstract_words": 212
   },
   {
     "doc_id": "doc_148",
-    "title": "Slavery",
-    "category": "general_science"
+    "title": "Towards a more efficient representation of imputation operators in TPOT",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.04407",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_149",
-    "title": "Soul",
-    "category": "general_science"
+    "title": "Rank Selection of CP-decomposed Convolutional Layers with Variational   Bayesian Matrix Factorization",
+    "category": "cs.LG",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.05243",
+    "abstract_words": 193
   },
   {
     "doc_id": "doc_150",
-    "title": "Service economy",
-    "category": "general_science"
+    "title": "Efficient Test Collection Construction via Active Learning",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.05605",
+    "abstract_words": 189
   },
   {
     "doc_id": "doc_151",
-    "title": "Scarcity",
-    "category": "general_science"
+    "title": "A Pipeline for Post-Crisis Twitter Data Acquisition",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.05881",
+    "abstract_words": 160
   },
   {
     "doc_id": "doc_152",
-    "title": "Theatre",
-    "category": "general_science"
+    "title": "Unsupervised Hashtag Retrieval and Visualization for Crisis Informatics",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.05906",
+    "abstract_words": 224
   },
   {
     "doc_id": "doc_153",
-    "title": "Tree",
-    "category": "general_science"
+    "title": "Plagiarism: Taxonomy, Tools and Detection Techniques",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.06323",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_154",
-    "title": "Tragedy (Greek theatre)",
-    "category": "general_science"
+    "title": "Analyzing Similarity in Mathematical Content To Enhance the Detection of   Academic Plagiarism",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.08439",
+    "abstract_words": 224
   },
   {
     "doc_id": "doc_155",
-    "title": "Taxonomy",
-    "category": "general_science"
+    "title": "Benchmarking Clinical Decision Support Search",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.09322",
+    "abstract_words": 163
   },
   {
     "doc_id": "doc_156",
-    "title": "The Sun",
-    "category": "general_science"
+    "title": "Ensemble Neural Relation Extraction with Adaptive Boosting",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.09334",
+    "abstract_words": 156
   },
   {
     "doc_id": "doc_157",
-    "title": "Temple",
-    "category": "general_science"
+    "title": "ILPS at TREC 2017 Common Core Track",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-01-01",
+    "arxiv_id": "1801.10603",
+    "abstract_words": 129
   },
   {
     "doc_id": "doc_158",
-    "title": "Universe",
-    "category": "general_science"
+    "title": "Correlation and Prediction of Evaluation Metrics in Information   Retrieval",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-02-01",
+    "arxiv_id": "1802.00323",
+    "abstract_words": 199
   },
   {
     "doc_id": "doc_159",
-    "title": "Uranus",
-    "category": "general_science"
+    "title": "A Comparison of Word Embeddings for the Biomedical Natural Language   Processing",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-02-01",
+    "arxiv_id": "1802.00400",
+    "abstract_words": 258
   },
   {
     "doc_id": "doc_160",
-    "title": "Vocabulary",
-    "category": "general_science"
+    "title": "Modeling Text with Graph Convolutional Network for Cross-Modal   Information Retrieval",
+    "category": "cs.IR",
+    "year": "2018",
+    "created_at": "2018-02-01",
+    "arxiv_id": "1802.00985",
+    "abstract_words": 204
   },
   {
     "doc_id": "doc_161",
-    "title": "Vegetable oil",
-    "category": "general_science"
+    "title": "Learning Spatial Common Sense with Geometry-Aware Recurrent Networks",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00003",
+    "abstract_words": 196
   },
   {
     "doc_id": "doc_162",
-    "title": "Volume",
-    "category": "general_science"
+    "title": "DCI: Discriminative and Contrast Invertible Descriptor",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00027",
+    "abstract_words": 101
   },
   {
     "doc_id": "doc_163",
-    "title": "Venus",
-    "category": "general_science"
+    "title": "Interest Point Detection based on Adaptive Ternary Coding",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00031",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_164",
-    "title": "Virtual community",
-    "category": "general_science"
+    "title": "SiCloPe: Silhouette-Based Clothed People",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00049",
+    "abstract_words": 204
   },
   {
     "doc_id": "doc_165",
-    "title": "World Wide Web",
-    "category": "general_science"
+    "title": "Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00063",
+    "abstract_words": 173
   },
   {
     "doc_id": "doc_166",
-    "title": "Wiki",
-    "category": "general_science"
+    "title": "Impossibility and Uncertainty Theorems in AI Value Alignment (or why   your AGI should not have a utility function)",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00064",
+    "abstract_words": 232
   },
   {
     "doc_id": "doc_167",
-    "title": "Website",
-    "category": "general_science"
+    "title": "Not All Words are Equal: Video-specific Information Loss for Video   Captioning",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00097",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_168",
-    "title": "Web browser",
-    "category": "general_science"
+    "title": "Rethinking on Multi-Stage Networks for Human Pose Estimation",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00148",
+    "abstract_words": 104
   },
   {
     "doc_id": "doc_169",
-    "title": "Webpage",
-    "category": "general_science"
+    "title": "Handwritten Indic Character Recognition using Capsule Networks",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00166",
+    "abstract_words": 141
   },
   {
     "doc_id": "doc_170",
-    "title": "Microsoft Windows",
-    "category": "general_science"
+    "title": "Disparity-preserved Deep Cross-platform Association for Cross-platform   Video Recommendation",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00171",
+    "abstract_words": 156
   },
   {
     "doc_id": "doc_171",
-    "title": "Window",
-    "category": "general_science"
+    "title": "Nasal Patches and Curves for Expression-robust 3D Face Recognition",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00206",
+    "abstract_words": 194
   },
   {
     "doc_id": "doc_172",
-    "title": "War",
-    "category": "general_science"
+    "title": "Mapping Areas using Computer Vision Algorithms and Drones",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00211",
+    "abstract_words": 115
   },
   {
     "doc_id": "doc_173",
-    "title": "Yard (disambiguation)",
-    "category": "general_science"
+    "title": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00212",
+    "abstract_words": 136
   },
   {
     "doc_id": "doc_174",
-    "title": "Zoology",
-    "category": "general_science"
+    "title": "Ancient Painting to Natural Image: A New Solution for Painting   Processing",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00224",
+    "abstract_words": 194
   },
   {
     "doc_id": "doc_175",
-    "title": "Zinc",
-    "category": "general_science"
+    "title": "Learning Humanoid Robot Motions Through Deep Neural Networks",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00270",
+    "abstract_words": 120
   },
   {
     "doc_id": "doc_176",
-    "title": "Zoo",
-    "category": "general_science"
+    "title": "Vector and Line Quantization for Billion-scale Similarity Search on GPUs",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00275",
+    "abstract_words": 212
   },
   {
     "doc_id": "doc_177",
-    "title": "Prison",
-    "category": "general_science"
+    "title": "On Minimum Discrepancy Estimation for Deep Domain Adaptation",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00282",
+    "abstract_words": 154
   },
   {
     "doc_id": "doc_178",
-    "title": "Mercury",
-    "category": "general_science"
+    "title": "A Deep Learning Approach for Similar Languages, Varieties and Dialects",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00297",
+    "abstract_words": 160
   },
   {
     "doc_id": "doc_179",
-    "title": "Mercury (element)",
-    "category": "chemistry"
+    "title": "Ethically Aligned Opportunistic Scheduling for Productive Laziness",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00298",
+    "abstract_words": 149
   },
   {
     "doc_id": "doc_180",
-    "title": "Climate",
-    "category": "general_science"
+    "title": "SIXray : A Large-scale Security Inspection X-ray Benchmark for   Prohibited Item Discovery in Overlapping Images",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00303",
+    "abstract_words": 208
   },
   {
     "doc_id": "doc_181",
-    "title": "Fold (geology)",
-    "category": "general_science"
+    "title": "The TagRec Framework as a Toolkit for the Development of Tag-Based   Recommender Systems",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00306",
+    "abstract_words": 147
   },
   {
     "doc_id": "doc_182",
-    "title": "Pacific Ocean",
-    "category": "general_science"
+    "title": "Plugin Networks for Inference under Partial Evidence",
+    "category": "cs.CV",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00326",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_183",
-    "title": "Basket",
-    "category": "general_science"
+    "title": "Information Extraction from Scientific Literature for Method   Recommendation",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00401",
+    "abstract_words": 206
   },
   {
     "doc_id": "doc_184",
-    "title": "Software",
-    "category": "computer_science"
+    "title": "The Technological Gap Between Virtual Assistants and Recommendation   Systems",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00431",
+    "abstract_words": 187
   },
   {
     "doc_id": "doc_185",
-    "title": "Wall",
-    "category": "general_science"
+    "title": "Efficient Evolutionary Methods for Game Agent Optimisation: Model-Based   is Best",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00723",
+    "abstract_words": 158
   },
   {
     "doc_id": "doc_186",
-    "title": "Sociology",
-    "category": "general_science"
+    "title": "HG-Caffe: Mobile and Embedded Neural Network GPU (OpenCL) Inference   Engine with FP16 Supporting",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00858",
+    "abstract_words": 109
   },
   {
     "doc_id": "doc_187",
-    "title": "Sky",
-    "category": "general_science"
+    "title": "Reachability and Differential based Heuristics for Solving Markov   Decision Processes",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00921",
+    "abstract_words": 176
   },
   {
     "doc_id": "doc_188",
-    "title": "IP address",
-    "category": "general_science"
+    "title": "Constrained optimization under uncertainty for decision-making problems:   Application to Real-Time Strategy games",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00942",
+    "abstract_words": 155
   },
   {
     "doc_id": "doc_189",
-    "title": "Corset",
-    "category": "general_science"
+    "title": "Machine Teaching in Hierarchical Genetic Reinforcement Learning:   Curriculum Design of Reward Functions for Swarm Shepherding",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.00949",
+    "abstract_words": 169
   },
   {
     "doc_id": "doc_190",
-    "title": "General semantics",
-    "category": "biology"
+    "title": "Machine Translation: A Literature Review",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01122",
+    "abstract_words": 175
   },
   {
     "doc_id": "doc_191",
-    "title": "Nitrogen",
-    "category": "general_science"
+    "title": "Aspect Category Detection via Topic-Attention Network",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01183",
+    "abstract_words": 167
   },
   {
     "doc_id": "doc_192",
-    "title": "Spamming",
-    "category": "general_science"
+    "title": "Speaker Adaptation for End-to-End CTC Models",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01239",
+    "abstract_words": 153
   },
   {
     "doc_id": "doc_193",
-    "title": "Colour",
-    "category": "general_science"
+    "title": "On hybrid modular recommendation systems for video streaming",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01418",
+    "abstract_words": 259
   },
   {
     "doc_id": "doc_194",
-    "title": "Scurvy",
-    "category": "general_science"
+    "title": "Addressing Objects and Their Relations: The Conversational Entity   Dialogue Model",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01466",
+    "abstract_words": 116
   },
   {
     "doc_id": "doc_195",
-    "title": "Ion",
-    "category": "general_science"
+    "title": "Text Mining Customer Reviews For Aspect-based Restaurant Rating",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01642",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_196",
-    "title": "Cognitive science",
-    "category": "general_science"
+    "title": "Interactive Matching Network for Multi-Turn Response Selection in   Retrieval-Based Chatbots",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01824",
+    "abstract_words": 108
   },
   {
     "doc_id": "doc_197",
-    "title": "Theology",
-    "category": "general_science"
+    "title": "\"Ge Shu Zhi Zhi\": Towards Deep Understanding about Worlds",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01834",
+    "abstract_words": 132
   },
   {
     "doc_id": "doc_198",
-    "title": "Work",
-    "category": "general_science"
+    "title": "Personal Universes: A Solution to the Multi-Agent Value Alignment   Problem",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01851",
+    "abstract_words": 100
   },
   {
     "doc_id": "doc_199",
-    "title": "Argon",
-    "category": "general_science"
+    "title": "A* Tree Search for Portfolio Management",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01855",
+    "abstract_words": 158
   },
   {
     "doc_id": "doc_200",
-    "title": "European Union",
-    "category": "general_science"
+    "title": "A Computational Framework for Motor Skill Acquisition",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01856",
+    "abstract_words": 188
   },
   {
     "doc_id": "doc_201",
-    "title": "Albert Einstein",
-    "category": "general_science"
+    "title": "Stance Classification for Rumour Analysis in Twitter: Exploiting   Affective Information and Conversation Structure",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.01911",
+    "abstract_words": 178
   },
   {
     "doc_id": "doc_202",
-    "title": "Radio telescope",
-    "category": "general_science"
+    "title": "Towards a Decentralized, Autonomous Multiagent Framework for Mitigating   Crop Loss",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02035",
+    "abstract_words": 189
   },
   {
     "doc_id": "doc_203",
-    "title": "Light year",
-    "category": "general_science"
+    "title": "Multi-turn Inference Matching Network for Natural Language Inference",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02222",
+    "abstract_words": 141
   },
   {
     "doc_id": "doc_204",
-    "title": "LOL",
-    "category": "general_science"
+    "title": "DEMN: Distilled-Exposition Enhanced Matching Network for Story   Comprehension",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02252",
+    "abstract_words": 138
   },
   {
     "doc_id": "doc_205",
-    "title": "Engineering",
-    "category": "general_science"
+    "title": "Multi-Perspective Fusion Network for Commonsense Reading Comprehension",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02257",
+    "abstract_words": 173
   },
   {
     "doc_id": "doc_206",
-    "title": "Communication",
-    "category": "general_science"
+    "title": "Multi-style Generative Reading Comprehension",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02262",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_207",
-    "title": "Miracle",
-    "category": "general_science"
+    "title": "Using offline metrics and user behavior analysis to combine multiple   systems for music recommendation",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02296",
+    "abstract_words": 200
   },
   {
     "doc_id": "doc_208",
-    "title": "English language",
-    "category": "general_science"
+    "title": "Complexity Bounds for the Controllability of Temporal Networks with   Conditions, Disjunctions, and Uncertainty",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02307",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_209",
-    "title": "Carnivore",
-    "category": "general_science"
+    "title": "Forecasting Granular Audience Size for Online Advertising",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02412",
+    "abstract_words": 144
   },
   {
     "doc_id": "doc_210",
-    "title": "Developmental biology",
-    "category": "biology"
+    "title": "On Relativistic $f$-Divergences",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02474",
+    "abstract_words": 189
   },
   {
     "doc_id": "doc_211",
-    "title": "1924",
-    "category": "general_science"
+    "title": "Choosing the Right Word: Using Bidirectional LSTM Tagger for Writing   Support Systems",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02490",
+    "abstract_words": 203
   },
   {
     "doc_id": "doc_212",
-    "title": "1929",
-    "category": "general_science"
+    "title": "Team Papelo: Transformer Networks at FEVER",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02534",
+    "abstract_words": 141
   },
   {
     "doc_id": "doc_213",
-    "title": "Outer space",
-    "category": "general_science"
+    "title": "High-Fidelity Vector Space Models of Structured Data",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02565",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_214",
-    "title": "Natural satellite",
-    "category": "general_science"
+    "title": "Sequential Attention-based Network for Noetic End-to-End Response   Selection",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02609",
+    "abstract_words": 178
   },
   {
     "doc_id": "doc_215",
-    "title": "Gravity",
-    "category": "physics"
+    "title": "What do Language Representations Really Represent?",
+    "category": "cs.CL",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02646",
+    "abstract_words": 193
   },
   {
     "doc_id": "doc_216",
-    "title": "Centripetal force",
-    "category": "physics"
+    "title": "Change Detection and Notification of Webpages: A Survey",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02660",
+    "abstract_words": 119
   },
   {
     "doc_id": "doc_217",
-    "title": "1925",
-    "category": "general_science"
+    "title": "Making AI meaningful again",
+    "category": "cs.AI",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.02918",
+    "abstract_words": 110
   },
   {
     "doc_id": "doc_218",
-    "title": "Emphysema",
-    "category": "general_science"
+    "title": "Automatic detection of passable roads after floods in remote sensed and   social media data",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.03298",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_219",
-    "title": "Oxygen",
-    "category": "general_science"
+    "title": "Integrating and querying similar tables from PDF documents using deep   learning",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.04672",
+    "abstract_words": 199
   },
   {
     "doc_id": "doc_220",
-    "title": "Blood",
-    "category": "general_science"
+    "title": "It's Only Words And Words Are All I Have",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.05227",
+    "abstract_words": 147
   },
   {
     "doc_id": "doc_221",
-    "title": "Computer program",
-    "category": "computer_science"
+    "title": "TensorFlow.js: Machine Learning for the Web and Beyond",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.05350",
+    "abstract_words": 101
   },
   {
     "doc_id": "doc_222",
-    "title": "Data",
-    "category": "computer_science"
+    "title": "Managing Popularity Bias in Recommender Systems with Personalized   Re-ranking",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.07555",
+    "abstract_words": 126
   },
   {
     "doc_id": "doc_223",
-    "title": "Mars (disambiguation)",
-    "category": "general_science"
+    "title": "CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic   Health Records using OMOP Common Data Model",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.07601",
+    "abstract_words": 223
   },
   {
     "doc_id": "doc_224",
-    "title": "Jupiter (disambiguation)",
-    "category": "general_science"
+    "title": "Neural IR Meets Graph Embedding: A Ranking Model for Product Search",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.08286",
+    "abstract_words": 127
   },
   {
     "doc_id": "doc_225",
-    "title": "Venus (disambiguation)",
-    "category": "general_science"
+    "title": "Expanding Click and Buy rates: Exploration of evaluation metrics that   measure the impact of personalized recommendation engines on e-commerce   platforms",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.08901",
+    "abstract_words": 201
   },
   {
     "doc_id": "doc_226",
-    "title": "Saturn (disambiguation)",
-    "category": "general_science"
+    "title": "Using Score Distributions to Compare Statistical Significance Tests for   Information Retrieval Evaluation",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-01-01",
+    "arxiv_id": "1901.10696",
+    "abstract_words": 198
   },
   {
     "doc_id": "doc_227",
-    "title": "Uranus (disambiguation)",
-    "category": "general_science"
+    "title": "On the statistical evaluation of algorithmic's computational   experimentation with infeasible solutions",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.00101",
+    "abstract_words": 157
   },
   {
     "doc_id": "doc_228",
-    "title": "Neptune (disambiguation)",
-    "category": "general_science"
+    "title": "Sequential Evaluation and Generation Framework for Combinatorial   Recommender System",
+    "category": "cs.IR",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.00245",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_229",
-    "title": "Saarlouis",
-    "category": "general_science"
+    "title": "Understanding over-parameterized deep networks by geometrization",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.03793",
+    "abstract_words": 108
   },
   {
     "doc_id": "doc_230",
-    "title": "Slope",
-    "category": "general_science"
+    "title": "Machine Learning of Time Series Using Time-delay Embedding and Precision   Annealing",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.05062",
+    "abstract_words": 159
   },
   {
     "doc_id": "doc_231",
-    "title": "Topology",
-    "category": "general_science"
+    "title": "Probabilistic Generative Deep Learning for Molecular Design",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.05148",
+    "abstract_words": 105
   },
   {
     "doc_id": "doc_232",
-    "title": "1933",
-    "category": "general_science"
+    "title": "Epileptic seizure classification using statistical sampling and a novel   feature selection algorithm",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.09962",
+    "abstract_words": 114
   },
   {
     "doc_id": "doc_233",
-    "title": "Census",
-    "category": "general_science"
+    "title": "ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural   ODEs",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-02-01",
+    "arxiv_id": "1902.10298",
+    "abstract_words": 221
   },
   {
     "doc_id": "doc_234",
-    "title": "Star",
-    "category": "general_science"
+    "title": "A Capsule-unified Framework of Deep Neural Networks for Graphical   Programming",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-03-01",
+    "arxiv_id": "1903.04982",
+    "abstract_words": 113
   },
   {
     "doc_id": "doc_235",
-    "title": "HTML",
-    "category": "general_science"
+    "title": "Using machine learning to create high-efficiency freeform illumination   design tools",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-03-01",
+    "arxiv_id": "1903.11166",
+    "abstract_words": 107
   },
   {
     "doc_id": "doc_236",
-    "title": "Leg",
-    "category": "general_science"
+    "title": "Medical Time Series Classification with Hierarchical Attention-based   Temporal Convolutional Networks: A Case Study of Myotonic Dystrophy Diagnosis",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-03-01",
+    "arxiv_id": "1903.11748",
+    "abstract_words": 155
   },
   {
     "doc_id": "doc_237",
-    "title": "Aston Villa F.C.",
-    "category": "general_science"
+    "title": "Application of Deep Learning Long Short-Term Memory in Energy Demand   Forecasting",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-03-01",
+    "arxiv_id": "1903.11941",
+    "abstract_words": 180
   },
   {
     "doc_id": "doc_238",
-    "title": "Birmingham City F.C.",
-    "category": "general_science"
+    "title": "SysML'19 demo: customizable and reusable Collective Knowledge pipelines   to automate and reproduce machine learning experiments",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-04-01",
+    "arxiv_id": "1904.00324",
+    "abstract_words": 113
   },
   {
     "doc_id": "doc_239",
-    "title": "West Ham United F.C.",
-    "category": "general_science"
+    "title": "Fourier Transform Approach to Machine Learning I: Fourier Regression",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-04-01",
+    "arxiv_id": "1904.00368",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_240",
-    "title": "Asteroid belt",
-    "category": "general_science"
+    "title": "Tiered Latent Representations and Latent Spaces for Molecular Graphs",
+    "category": "cs.LG",
+    "year": "2019",
+    "created_at": "2019-04-01",
+    "arxiv_id": "1904.02653",
+    "abstract_words": 168
   },
   {
     "doc_id": "doc_241",
-    "title": "Gardening",
-    "category": "general_science"
+    "title": "Learning Numeral Embeddings",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00003",
+    "abstract_words": 167
   },
   {
     "doc_id": "doc_242",
-    "title": "Force",
-    "category": "physics"
+    "title": "Deep Reinforced Self-Attention Masks for Abstractive Summarization   (DR.SAS)",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00009",
+    "abstract_words": 149
   },
   {
     "doc_id": "doc_243",
-    "title": "Mixture",
-    "category": "general_science"
+    "title": "Building chatbots from large scale domain-specific knowledge bases:   challenges and opportunities",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00100",
+    "abstract_words": 154
   },
   {
     "doc_id": "doc_244",
-    "title": "Chess",
-    "category": "general_science"
+    "title": "NeuroBoun: An inquiry-based approach for exploring scientific literature   -- a use case in neuroscience",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00186",
+    "abstract_words": 166
   },
   {
     "doc_id": "doc_245",
-    "title": "Gold",
-    "category": "general_science"
+    "title": "A Coarse-to-Fine Adaptive Network for Appearance-Based Gaze Estimation",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00187",
+    "abstract_words": 138
   },
   {
     "doc_id": "doc_246",
-    "title": "Kilogram",
-    "category": "general_science"
+    "title": "Multi-organ Segmentation over Partially Labeled Datasets with   Multi-scale Feature Abstraction",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00208",
+    "abstract_words": 203
   },
   {
     "doc_id": "doc_247",
-    "title": "Second",
-    "category": "general_science"
+    "title": "Low-Budget Label Query through Domain Alignment Enforcement",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00238",
+    "abstract_words": 195
   },
   {
     "doc_id": "doc_248",
-    "title": "M-theory",
-    "category": "general_science"
+    "title": "Multi-Graph Convolution Collaborative Filtering",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00267",
+    "abstract_words": 208
   },
   {
     "doc_id": "doc_249",
-    "title": "Gas",
-    "category": "general_science"
+    "title": "ZeroQ: A Novel Zero Shot Quantization Framework",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00281",
+    "abstract_words": 244
   },
   {
     "doc_id": "doc_250",
-    "title": "Family",
-    "category": "general_science"
+    "title": "Video Saliency Prediction Using Enhanced Spatiotemporal Alignment   Network",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00292",
+    "abstract_words": 215
   },
   {
     "doc_id": "doc_251",
-    "title": "Wave (physics)",
-    "category": "physics"
+    "title": "Video Cloze Procedure for Self-Supervised Spatio-Temporal Learning",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00294",
+    "abstract_words": 151
   },
   {
     "doc_id": "doc_252",
-    "title": "Weapon",
-    "category": "general_science"
+    "title": "Chemical-induced Disease Relation Extraction with Dependency Information   and Prior Knowledge",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00295",
+    "abstract_words": 218
   },
   {
     "doc_id": "doc_253",
-    "title": "Christmas cracker",
-    "category": "general_science"
+    "title": "BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00309",
+    "abstract_words": 205
   },
   {
     "doc_id": "doc_254",
-    "title": "Floodlight",
-    "category": "general_science"
+    "title": "Graph-FCN for image semantic segmentation",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00335",
+    "abstract_words": 146
   },
   {
     "doc_id": "doc_255",
-    "title": "Bankside",
-    "category": "general_science"
+    "title": "First image then video: A two-stage network for spatiotemporal video   denoising",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00346",
+    "abstract_words": 172
   },
   {
     "doc_id": "doc_256",
-    "title": "Female",
-    "category": "general_science"
+    "title": "Butterfly Detection and Classification Based on Integrated YOLO   Algorithm",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00361",
+    "abstract_words": 147
   },
   {
     "doc_id": "doc_257",
-    "title": "Power",
-    "category": "general_science"
+    "title": "Using CNNs For Users Segmentation In Video See-Through Augmented   Virtuality",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00487",
+    "abstract_words": 120
   },
   {
     "doc_id": "doc_258",
-    "title": "Matrix",
-    "category": "general_science"
+    "title": "From Kinematics To Dynamics: Estimating Center of Pressure and Base of   Support from Video Frames of Human Motion",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00657",
+    "abstract_words": 151
   },
   {
     "doc_id": "doc_259",
-    "title": "Metal",
-    "category": "general_science"
+    "title": "HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand   Pose Estimation",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00702",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_260",
-    "title": "Aberystwyth Town F.C.",
-    "category": "general_science"
+    "title": "A Multi-oriented Chinese Keyword Spotter Guided by Text Line Detection",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00722",
+    "abstract_words": 121
   },
   {
     "doc_id": "doc_261",
-    "title": "Tributary",
-    "category": "general_science"
+    "title": "TED: A Pretrained Unsupervised Summarization Model with Theme Modeling   and Denoising",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00725",
+    "abstract_words": 154
   },
   {
     "doc_id": "doc_262",
-    "title": "Great Plains",
-    "category": "general_science"
+    "title": "Two-Level Transformer and Auxiliary Coherence Modeling for Improved Text   Segmentation",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00891",
+    "abstract_words": 131
   },
   {
     "doc_id": "doc_263",
-    "title": "Mythology",
-    "category": "general_science"
+    "title": "DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.00987",
+    "abstract_words": 137
   },
   {
     "doc_id": "doc_264",
-    "title": "BBC",
-    "category": "general_science"
+    "title": "Automated Discovery of Data Transformations for Robotic Process   Automation",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01007",
+    "abstract_words": 167
   },
   {
     "doc_id": "doc_265",
-    "title": "Weather",
-    "category": "general_science"
+    "title": "Adapting Deep Learning for Sentiment Classification of Code-Switched   Informal Short Text",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01047",
+    "abstract_words": 146
   },
   {
     "doc_id": "doc_266",
-    "title": "20th century",
-    "category": "general_science"
+    "title": "End-To-End Trainable Video Super-Resolution Based on a New Mechanism for   Implicit Motion Estimation and Compensation",
+    "category": "cs.CV",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01162",
+    "abstract_words": 200
   },
   {
     "doc_id": "doc_267",
-    "title": "Internet Explorer",
-    "category": "computer_science"
+    "title": "Computationally Efficient NER Taggers with Combined Embeddings and   Constrained Decoding",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01167",
+    "abstract_words": 186
   },
   {
     "doc_id": "doc_268",
-    "title": "List of mathematicians",
-    "category": "mathematics"
+    "title": "Generating Word and Document Embeddings for Sentiment Analysis",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01269",
+    "abstract_words": 194
   },
   {
     "doc_id": "doc_269",
-    "title": "Coat",
-    "category": "general_science"
+    "title": "Evolutionary Approach to Collectible Card Game Arena Deckbuilding using   Active Genes",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01326",
+    "abstract_words": 201
   },
   {
     "doc_id": "doc_270",
-    "title": "Head",
-    "category": "general_science"
+    "title": "Improving Entity Linking by Modeling Latent Entity Type Information",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01447",
+    "abstract_words": 132
   },
   {
     "doc_id": "doc_271",
-    "title": "Jackknife",
-    "category": "general_science"
+    "title": "Stance Detection Benchmark: How Robust Is Your Stance Detection?",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01565",
+    "abstract_words": 174
   },
   {
     "doc_id": "doc_272",
-    "title": "Luffa",
-    "category": "general_science"
+    "title": "Learning Reusable Options for Multi-Task Reinforcement Learning",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01577",
+    "abstract_words": 145
   },
   {
     "doc_id": "doc_273",
-    "title": "Sconce",
-    "category": "general_science"
+    "title": "A Survey on Machine Reading Comprehension Systems",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01582",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_274",
-    "title": "Culture",
-    "category": "general_science"
+    "title": "Morphological Word Segmentation on Agglutinative Languages for Neural   Machine Translation",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01589",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_275",
-    "title": "Houseplant",
-    "category": "biology"
+    "title": "Generalizing Emergent Communication",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01772",
+    "abstract_words": 112
   },
   {
     "doc_id": "doc_276",
-    "title": "Movie",
-    "category": "general_science"
+    "title": "Modeling Uncertainty and Imprecision in Nonmonotonic Reasoning using   Fuzzy Numbers",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01781",
+    "abstract_words": 108
   },
   {
     "doc_id": "doc_277",
-    "title": "Isotope",
-    "category": "general_science"
+    "title": "Text Complexity Classification Based on Linguistic Information:   Application to Intelligent Tutoring of ESL",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01863",
+    "abstract_words": 251
   },
   {
     "doc_id": "doc_278",
-    "title": "Power network",
-    "category": "computer_science"
+    "title": "Latent Opinions Transfer Network for Target-Oriented Opinion Words   Extraction",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.01989",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_279",
-    "title": "Elephant",
-    "category": "general_science"
+    "title": "Knowledge-aware Attention Network for Protein-Protein Interaction   Extraction",
+    "category": "cs.CL",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.02091",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_280",
-    "title": "Governor-general",
-    "category": "biology"
+    "title": "An adaptive data-driven approach to solve real-world vehicle routing   problems in logistics",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.02094",
+    "abstract_words": 224
   },
   {
     "doc_id": "doc_281",
-    "title": "Black hole",
-    "category": "general_science"
+    "title": "Data Curves Clustering Using Common Patterns Detection",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.02095",
+    "abstract_words": 183
   },
   {
     "doc_id": "doc_282",
-    "title": "Fertilizer",
-    "category": "general_science"
+    "title": "Hierarchical Reinforcement Learning as a Model of Human Task   Interleaving",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.02122",
+    "abstract_words": 168
   },
   {
     "doc_id": "doc_283",
-    "title": "Military",
-    "category": "general_science"
+    "title": "Citation Recommendations Considering Content and Structural Context   Embedding",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.02344",
+    "abstract_words": 101
   },
   {
     "doc_id": "doc_284",
-    "title": "Photosynthesis",
-    "category": "general_science"
+    "title": "A Probabilistic Simulator of Spatial Demand for Product Allocation",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.03210",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_285",
-    "title": "Casserole",
-    "category": "general_science"
+    "title": "A Unified Conversational Assistant Framework for Business Process   Automation",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.03543",
+    "abstract_words": 217
   },
   {
     "doc_id": "doc_286",
-    "title": "Flea",
-    "category": "general_science"
+    "title": "Point-Based Methods for Model Checking in Partially Observable Markov   Decision Processes",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.03809",
+    "abstract_words": 104
   },
   {
     "doc_id": "doc_287",
-    "title": "Hiroshima",
-    "category": "general_science"
+    "title": "Towards Evaluating Plan Generation Approaches with Instructional Texts",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04186",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_288",
-    "title": "Advertising",
-    "category": "general_science"
+    "title": "State Representation and Polyomino Placement for the Game Patchwork",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04233",
+    "abstract_words": 183
   },
   {
     "doc_id": "doc_289",
-    "title": "Buddha",
-    "category": "general_science"
+    "title": "Geometric deep learning for computational mechanics Part I: Anisotropic   Hyperelasticity",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04292",
+    "abstract_words": 243
   },
   {
     "doc_id": "doc_290",
-    "title": "Schizophrenia",
-    "category": "general_science"
+    "title": "Extraction of Relevant Images for Boilerplate Removal in Web Browsers",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04338",
+    "abstract_words": 203
   },
   {
     "doc_id": "doc_291",
-    "title": "Drink",
-    "category": "general_science"
+    "title": "Monte Carlo Anti-Differentiation for Approximate Weighted Model   Integration",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04566",
+    "abstract_words": 184
   },
   {
     "doc_id": "doc_292",
-    "title": "Need",
-    "category": "general_science"
+    "title": "Fairness in Learning-Based Sequential Decision Algorithms: A Survey",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04861",
+    "abstract_words": 142
   },
   {
     "doc_id": "doc_293",
-    "title": "Freeware",
-    "category": "general_science"
+    "title": "Physical-Virtual Collaboration Modeling for Intra-and Inter-Station   Metro Ridership Prediction",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.04889",
+    "abstract_words": 229
   },
   {
     "doc_id": "doc_294",
-    "title": "Yahoo!",
-    "category": "general_science"
+    "title": "A Comprehensive Survey on the Ambulance Routing and Location Problems",
+    "category": "cs.AI",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.05288",
+    "abstract_words": 149
   },
   {
     "doc_id": "doc_295",
-    "title": "Leader",
-    "category": "general_science"
+    "title": "DSR: A Collection for the Evaluation of Graded Disease-Symptom Relations",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.05357",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_296",
-    "title": "Linux",
-    "category": "general_science"
+    "title": "Shifted and Squeezed 8-bit Floating Point format for Low-Precision   Training of Deep Neural Networks",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.05674",
+    "abstract_words": 151
   },
   {
     "doc_id": "doc_297",
-    "title": "Open source",
-    "category": "general_science"
+    "title": "Stream-Flow Forecasting of Small Rivers Based on LSTM",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.05681",
+    "abstract_words": 185
   },
   {
     "doc_id": "doc_298",
-    "title": "Desktop environment",
-    "category": "general_science"
+    "title": "Assigning credit to scientific datasets using article citation networks",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.05917",
+    "abstract_words": 164
   },
   {
     "doc_id": "doc_299",
-    "title": "OpenOffice.org",
-    "category": "general_science"
+    "title": "Quantum-like Structure in Multidimensional Relevance Judgements",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.07075",
+    "abstract_words": 137
   },
   {
     "doc_id": "doc_300",
-    "title": "Download",
-    "category": "general_science"
+    "title": "BiOnt: Deep Learning using Multiple Biomedical Ontologies for Relation   Extraction",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.07139",
+    "abstract_words": 175
   },
   {
     "doc_id": "doc_301",
-    "title": "GNOME",
-    "category": "general_science"
+    "title": "Hybrid Semantic Recommender System for Chemical Compounds",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.07440",
+    "abstract_words": 133
   },
   {
     "doc_id": "doc_302",
-    "title": "Sin",
-    "category": "general_science"
+    "title": "Wrapper Feature Selection Algorithm for the Optimization of an Indicator   System of Patent Value Assessment",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.08371",
+    "abstract_words": 129
   },
   {
     "doc_id": "doc_303",
-    "title": "Electronics",
-    "category": "general_science"
+    "title": "CAHPHF: Context-Aware Hierarchical QoS Prediction with Hybrid Filtering",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.09897",
+    "abstract_words": 237
   },
   {
     "doc_id": "doc_304",
-    "title": "Photon",
-    "category": "general_science"
+    "title": "Selective Weak Supervision for Neural Information Retrieval",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.10382",
+    "abstract_words": 171
   },
   {
     "doc_id": "doc_305",
-    "title": "Vector",
-    "category": "general_science"
+    "title": "Aspect-based Academic Search using Domain-specific KB",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.10781",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_306",
-    "title": "Physical exercise",
-    "category": "general_science"
+    "title": "Infodemiological Study Using Google Trends on Coronavirus Epidemic in   Wuhan, China",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.11021",
+    "abstract_words": 138
   },
   {
     "doc_id": "doc_307",
-    "title": "Rock",
-    "category": "general_science"
+    "title": "Correcting for Selection Bias in Learning-to-rank Systems",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.11358",
+    "abstract_words": 168
   },
   {
     "doc_id": "doc_308",
-    "title": "Peninsula",
-    "category": "general_science"
+    "title": "Learning to Structure Long-term Dependence for Sequential Recommendation",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-01-01",
+    "arxiv_id": "2001.11369",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_309",
-    "title": "Derivation",
-    "category": "general_science"
+    "title": "Context-Aware Recommendations for Televisions Using Deep Embeddings with   Relaxed N-Pairs Loss Objective",
+    "category": "cs.IR",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.01554",
+    "abstract_words": 132
   },
   {
     "doc_id": "doc_310",
-    "title": "Combinatorial game theory",
-    "category": "general_science"
+    "title": "A Framework for Semi-Automatic Precision and Accuracy Analysis for Fast   and Rigorous Deep Learning",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.03869",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_311",
-    "title": "Nim",
-    "category": "general_science"
+    "title": "Hybrid Embedded Deep Stacked Sparse Autoencoder with w_LPPD SVM Ensemble",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.06761",
+    "abstract_words": 242
   },
   {
     "doc_id": "doc_312",
-    "title": "Blue",
-    "category": "general_science"
+    "title": "Retrain or not retrain? -- efficient pruning methods of deep CNN   networks",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.07051",
+    "abstract_words": 106
   },
   {
     "doc_id": "doc_313",
-    "title": "Memory",
-    "category": "general_science"
+    "title": "A Survey on Predictive Maintenance for Industry 4.0",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.08224",
+    "abstract_words": 104
   },
   {
     "doc_id": "doc_314",
-    "title": "Bird",
-    "category": "general_science"
+    "title": "Event sequence metric learning",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.08232",
+    "abstract_words": 105
   },
   {
     "doc_id": "doc_315",
-    "title": "Banana",
-    "category": "general_science"
+    "title": "Network Cooperation with Progressive Disambiguation for Partial Label   Learning",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-02-01",
+    "arxiv_id": "2002.11919",
+    "abstract_words": 246
   },
   {
     "doc_id": "doc_316",
-    "title": "Swatch Internet Time",
-    "category": "computer_science"
+    "title": "A scheme for automatic differentiation of complex loss functions",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-03-01",
+    "arxiv_id": "2003.04295",
+    "abstract_words": 106
   },
   {
     "doc_id": "doc_317",
-    "title": "Crucible",
-    "category": "general_science"
+    "title": "Technical report: Training Mixture Density Networks with full covariance   matrices",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-03-01",
+    "arxiv_id": "2003.05739",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_318",
-    "title": "Lithium",
-    "category": "general_science"
+    "title": "Dynamic Sampling and Selective Masking for Communication-Efficient   Federated Learning",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-03-01",
+    "arxiv_id": "2003.09603",
+    "abstract_words": 120
   },
   {
     "doc_id": "doc_319",
-    "title": "Beryllium",
-    "category": "general_science"
+    "title": "Latent Patient Network Learning for Automatic Diagnosis",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-03-01",
+    "arxiv_id": "2003.13620",
+    "abstract_words": 192
   },
   {
     "doc_id": "doc_320",
-    "title": "Data compression",
-    "category": "computer_science"
+    "title": "A Brief Prehistory of Double Descent",
+    "category": "cs.LG",
+    "year": "2020",
+    "created_at": "2020-04-01",
+    "arxiv_id": "2004.04328",
+    "abstract_words": 157
   },
   {
     "doc_id": "doc_321",
-    "title": "Compiler",
-    "category": "general_science"
+    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00027",
+    "abstract_words": 145
   },
   {
     "doc_id": "doc_322",
-    "title": "Eye",
-    "category": "general_science"
+    "title": "KART: Privacy Leakage Framework of Language Models Pre-trained with   Clinical Records",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00036",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_323",
-    "title": "Insect",
-    "category": "general_science"
+    "title": "Federated Nonconvex Sparse Learning",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00052",
+    "abstract_words": 185
   },
   {
     "doc_id": "doc_324",
-    "title": "List of operating systems",
-    "category": "general_science"
+    "title": "Towards Modelling Coherence in Spoken Discourse",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00056",
+    "abstract_words": 122
   },
   {
     "doc_id": "doc_325",
-    "title": "Computer jargon",
-    "category": "computer_science"
+    "title": "Conflict-driven Inductive Logic Programming",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00058",
+    "abstract_words": 210
   },
   {
     "doc_id": "doc_326",
-    "title": "Epiphany (software)",
-    "category": "computer_science"
+    "title": "Controlled Analyses of Social Biases in Wikipedia Bios",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00078",
+    "abstract_words": 197
   },
   {
     "doc_id": "doc_327",
-    "title": "Medicine",
-    "category": "general_science"
+    "title": "Multi-task Retrieval for Knowledge-Intensive Tasks",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00117",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_328",
-    "title": "Pantograph",
-    "category": "general_science"
+    "title": "WARP: Word-level Adversarial ReProgramming",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00121",
+    "abstract_words": 137
   },
   {
     "doc_id": "doc_329",
-    "title": "Glow-worm",
-    "category": "general_science"
+    "title": "Intent Classification and Slot Filling for Privacy Policies",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00123",
+    "abstract_words": 185
   },
   {
     "doc_id": "doc_330",
-    "title": "Polymer",
-    "category": "general_science"
+    "title": "Sensei: Self-Supervised Sensor Name Segmentation",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00130",
+    "abstract_words": 135
   },
   {
     "doc_id": "doc_331",
-    "title": "Medium",
-    "category": "general_science"
+    "title": "Bilingual Lexicon Induction via Unsupervised Bitext Construction and   Word Alignment",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00148",
+    "abstract_words": 158
   },
   {
     "doc_id": "doc_332",
-    "title": "Safety curtain",
-    "category": "general_science"
+    "title": "A Graph Total Variation Regularized Softmax for Text Generation",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00153",
+    "abstract_words": 205
   },
   {
     "doc_id": "doc_333",
-    "title": "Sex",
-    "category": "general_science"
+    "title": "Fidel: Reconstructing Private Training Samples from Weight Updates in   Federated Learning",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00159",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_334",
-    "title": "Shovel",
-    "category": "general_science"
+    "title": "How Do Your Biomedical Named Entity Models Generalize to Novel Entities?",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00160",
+    "abstract_words": 215
   },
   {
     "doc_id": "doc_335",
-    "title": "Plunger",
-    "category": "general_science"
+    "title": "Transformer based Automatic COVID-19 Fake News Detection System",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00180",
+    "abstract_words": 141
   },
   {
     "doc_id": "doc_336",
-    "title": "Oral history",
-    "category": "general_science"
+    "title": "Early Prediction of Heart Disease Using PCA and Hybrid Genetic Algorithm   with k-Means",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00183",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_337",
-    "title": "Generation",
-    "category": "biology"
+    "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00190",
+    "abstract_words": 132
   },
   {
     "doc_id": "doc_338",
-    "title": "Gene",
-    "category": "biology"
+    "title": "On Explaining Your Explanations of BERT: An Empirical Study with   Sequence Classification",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00196",
+    "abstract_words": 143
   },
   {
     "doc_id": "doc_339",
-    "title": "Alliteration",
-    "category": "general_science"
+    "title": "BanglaBERT: Combating Embedding Barrier in Multilingual Models for   Low-Resource Language Understanding",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00204",
+    "abstract_words": 188
   },
   {
     "doc_id": "doc_340",
-    "title": "Homophone",
-    "category": "general_science"
+    "title": "Improved Neural Network based Plant Diseases Identification",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00215",
+    "abstract_words": 195
   },
   {
     "doc_id": "doc_341",
-    "title": "Poetry",
-    "category": "general_science"
+    "title": "Brain Tumor Detection and Classification based on Hybrid Ensemble   Classifier",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00216",
+    "abstract_words": 239
   },
   {
     "doc_id": "doc_342",
-    "title": "Literature",
-    "category": "general_science"
+    "title": "Adaptive Deconvolution-based stereo matching Net for Local Stereo   Matching",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00221",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_343",
-    "title": "Calorimeter",
-    "category": "general_science"
+    "title": "A General Counterexample to Any Decision Theory and Some Responses",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00280",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_344",
-    "title": "Bolus",
-    "category": "general_science"
+    "title": "An Ontology Design Pattern for representing Recurrent Situations",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00286",
+    "abstract_words": 158
   },
   {
     "doc_id": "doc_345",
-    "title": "Dental floss",
-    "category": "general_science"
+    "title": "Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and   Improving Models",
+    "category": "cs.CL",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00288",
+    "abstract_words": 118
   },
   {
     "doc_id": "doc_346",
-    "title": "Rickets",
-    "category": "general_science"
+    "title": "Video Captioning in Compressed Video",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00359",
+    "abstract_words": 171
   },
   {
     "doc_id": "doc_347",
-    "title": "Bile",
-    "category": "general_science"
+    "title": "Image-based Textile Decoding",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00395",
+    "abstract_words": 236
   },
   {
     "doc_id": "doc_348",
-    "title": "Dental pulp",
-    "category": "general_science"
+    "title": "Representation Learning of Reconstructed Graphs Using Random Walk Graph   Convolutional Network",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00417",
+    "abstract_words": 182
   },
   {
     "doc_id": "doc_349",
-    "title": "Protoplasm",
-    "category": "general_science"
+    "title": "On the confidence of stereo matching in a deep-learning era: a   quantitative evaluation",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00431",
+    "abstract_words": 185
   },
   {
     "doc_id": "doc_350",
-    "title": "Amylase",
-    "category": "general_science"
+    "title": "Refining activation downsampling with SoftPool",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00440",
+    "abstract_words": 162
   },
   {
     "doc_id": "doc_351",
-    "title": "Variegated leaf",
-    "category": "general_science"
+    "title": "Uncertainty-sensitive Activity Recognition: a Reliability Benchmark and   the CARING Models",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00468",
+    "abstract_words": 190
   },
   {
     "doc_id": "doc_352",
-    "title": "Plaque",
-    "category": "general_science"
+    "title": "Learning Rotation-Invariant Representations of Point Clouds Using   Aligned Edge Convolutional Neural Networks",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00483",
+    "abstract_words": 174
   },
   {
     "doc_id": "doc_353",
-    "title": "Chemical cell",
-    "category": "biology"
+    "title": "One-shot Representational Learning for Joint Biometric and Device   Authentication",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00524",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_354",
-    "title": "Dyadic",
-    "category": "general_science"
+    "title": "Context-Aware Safe Reinforcement Learning for Non-Stationary   Environments",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00531",
+    "abstract_words": 165
   },
   {
     "doc_id": "doc_355",
-    "title": "Enzyme",
-    "category": "general_science"
+    "title": "Six-channel Image Representation for Cross-domain Object Detection",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00561",
+    "abstract_words": 196
   },
   {
     "doc_id": "doc_356",
-    "title": "Machine code",
-    "category": "general_science"
+    "title": "Style Normalization and Restitution for Domain Generalization and   Adaptation",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00588",
+    "abstract_words": 253
   },
   {
     "doc_id": "doc_357",
-    "title": "Area",
-    "category": "general_science"
+    "title": "A Switched View of Retinex: Deep Self-Regularized Low-Light Image   Enhancement",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00603",
+    "abstract_words": 151
   },
   {
     "doc_id": "doc_358",
-    "title": "Air space",
-    "category": "general_science"
+    "title": "Depth as Attention for Face Representation Learning",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00652",
+    "abstract_words": 244
   },
   {
     "doc_id": "doc_359",
-    "title": "Japanese language",
-    "category": "general_science"
+    "title": "Weakly Supervised Multi-Object Tracking and Segmentation",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00667",
+    "abstract_words": 140
   },
   {
     "doc_id": "doc_360",
-    "title": "Hubble Space Telescope",
-    "category": "general_science"
+    "title": "Sentiment Analysis for Open Domain Conversational Agent",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00675",
+    "abstract_words": 167
   },
   {
     "doc_id": "doc_361",
-    "title": "Motion sensor",
-    "category": "physics"
+    "title": "Learning General Policies from Small Examples Without Supervision",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00692",
+    "abstract_words": 223
   },
   {
     "doc_id": "doc_362",
-    "title": "Arm",
-    "category": "general_science"
+    "title": "Towards Network Traffic Monitoring Using Deep Transfer Learning",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00731",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_363",
-    "title": "2002",
-    "category": "general_science"
+    "title": "Learning to Optimize Under Constraints with Unsupervised Deep Neural   Networks",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00744",
+    "abstract_words": 145
   },
   {
     "doc_id": "doc_364",
-    "title": "1996",
-    "category": "general_science"
+    "title": "Frequency Principle in Deep Learning Beyond Gradient-descent-based   Training",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00747",
+    "abstract_words": 152
   },
   {
     "doc_id": "doc_365",
-    "title": "1992",
-    "category": "general_science"
+    "title": "Retrieving and Reading: A Comprehensive Survey on Open-domain Question   Answering",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00774",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_366",
-    "title": "2005",
-    "category": "general_science"
+    "title": "Recommending Accurate and Diverse Items Using Bilateral Branch Network",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00781",
+    "abstract_words": 161
   },
   {
     "doc_id": "doc_367",
-    "title": "1989",
-    "category": "general_science"
+    "title": "Low Light Image Enhancement via Global and Local Context Modeling",
+    "category": "cs.CV",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00850",
+    "abstract_words": 190
   },
   {
     "doc_id": "doc_368",
-    "title": "Common year",
-    "category": "general_science"
+    "title": "Lightweight representation learning for efficient and scalable   recommendation",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00870",
+    "abstract_words": 163
   },
   {
     "doc_id": "doc_369",
-    "title": "19th century",
-    "category": "general_science"
+    "title": "Coreference Resolution in Research Papers from Multiple Domains",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00884",
+    "abstract_words": 180
   },
   {
     "doc_id": "doc_370",
-    "title": "Standard temperature and pressure",
-    "category": "general_science"
+    "title": "On Baselines for Local Feature Attributions",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00905",
+    "abstract_words": 159
   },
   {
     "doc_id": "doc_371",
-    "title": "Jungle",
-    "category": "general_science"
+    "title": "Towards Understanding the Behaviors of Optimal Deep Active Learning   Algorithms",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.00977",
+    "abstract_words": 125
   },
   {
     "doc_id": "doc_372",
-    "title": "Light",
-    "category": "general_science"
+    "title": "Conditional Local Convolution for Spatio-temporal Meteorological   Forecasting",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01000",
+    "abstract_words": 195
   },
   {
     "doc_id": "doc_373",
-    "title": "Gambling",
-    "category": "general_science"
+    "title": "A Comparative Study of AHP and Fuzzy AHP Method for Inconsistent Data",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01067",
+    "abstract_words": 112
   },
   {
     "doc_id": "doc_374",
-    "title": "Electron",
-    "category": "general_science"
+    "title": "Tensorizing Subgraph Search in the Supernet",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01078",
+    "abstract_words": 191
   },
   {
     "doc_id": "doc_375",
-    "title": "Video game",
-    "category": "general_science"
+    "title": "Be Greedy in Multi-Armed Bandits",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01086",
+    "abstract_words": 226
   },
   {
     "doc_id": "doc_376",
-    "title": "Oboe",
-    "category": "general_science"
+    "title": "Presenting a Dataset for Collaborator Recommending Systems in Academic   Social Network: a Case Study on ReseachGate",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01141",
+    "abstract_words": 238
   },
   {
     "doc_id": "doc_377",
-    "title": "GURPS",
-    "category": "general_science"
+    "title": "Robust Maximum Entropy Behavior Cloning",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01251",
+    "abstract_words": 125
   },
   {
     "doc_id": "doc_378",
-    "title": "2000",
-    "category": "general_science"
+    "title": "Multi-Model Least Squares-Based Recomputation Framework for Large Data   Analysis",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01271",
+    "abstract_words": 181
   },
   {
     "doc_id": "doc_379",
-    "title": "Lake",
-    "category": "general_science"
+    "title": "One vs Previous and Similar Classes Learning -- A Comparative Study",
+    "category": "cs.LG",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01294",
+    "abstract_words": 127
   },
   {
     "doc_id": "doc_380",
-    "title": "List of physics topics",
-    "category": "physics"
+    "title": "Contrastive Learning for Recommender System",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01317",
+    "abstract_words": 207
   },
   {
     "doc_id": "doc_381",
-    "title": "Galileo Galilei",
-    "category": "general_science"
+    "title": "Modeling Global Semantics for Question Answering over Knowledge Bases",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01510",
+    "abstract_words": 125
   },
   {
     "doc_id": "doc_382",
-    "title": "Water vapor",
-    "category": "general_science"
+    "title": "Explainable AI for Robot Failures: Generating Explanations that Improve   User Assistance in Fault Recovery",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01625",
+    "abstract_words": 217
   },
   {
     "doc_id": "doc_383",
-    "title": "Solid",
-    "category": "general_science"
+    "title": "Off-Policy Meta-Reinforcement Learning Based on Feature Embedding Spaces",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01883",
+    "abstract_words": 173
   },
   {
     "doc_id": "doc_384",
-    "title": "Contract",
-    "category": "general_science"
+    "title": "A Lower Bound on DNNF Encodings of Pseudo-Boolean Constraints",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.01953",
+    "abstract_words": 119
   },
   {
     "doc_id": "doc_385",
-    "title": "Face",
-    "category": "general_science"
+    "title": "TextBox: A Unified, Modularized, and Extensible Framework for Text   Generation",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02046",
+    "abstract_words": 123
   },
   {
     "doc_id": "doc_386",
-    "title": "Turing test",
-    "category": "general_science"
+    "title": "Transformer-based approach towards music emotion recognition from lyrics",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02051",
+    "abstract_words": 148
   },
   {
     "doc_id": "doc_387",
-    "title": "Fuel",
-    "category": "general_science"
+    "title": "Ludii Game Logic Guide",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02120",
+    "abstract_words": 126
   },
   {
     "doc_id": "doc_388",
-    "title": "Organic compound",
-    "category": "chemistry"
+    "title": "Neural Fitted Q Iteration based Optimal Bidding Strategy in Real Time   Reactive Power Market_1",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02456",
+    "abstract_words": 155
   },
   {
     "doc_id": "doc_389",
-    "title": "Energy",
-    "category": "physics"
+    "title": "Incorporating Vision Bias into Click Models for Image-oriented Search   Engine",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02459",
+    "abstract_words": 178
   },
   {
     "doc_id": "doc_390",
-    "title": "Xenon",
-    "category": "general_science"
+    "title": "Reinforced Imitative Graph Representation Learning for Mobile User   Profiling: An Adversarial Training Perspective",
+    "category": "cs.AI",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.02634",
+    "abstract_words": 250
   },
   {
     "doc_id": "doc_391",
-    "title": "Speed of light",
-    "category": "general_science"
+    "title": "Selection of Optimal Parameters in the Fast K-Word Proximity Search   Based on Multi-component Key Indexes",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.03327",
+    "abstract_words": 257
   },
   {
     "doc_id": "doc_392",
-    "title": "Body",
-    "category": "general_science"
+    "title": "Towards Long-term Fairness in Recommendation",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.03584",
+    "abstract_words": 253
   },
   {
     "doc_id": "doc_393",
-    "title": "Alloy",
-    "category": "general_science"
+    "title": "Disentangled Self-Attentive Neural Networks for Click-Through Rate   Prediction",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.03654",
+    "abstract_words": 160
   },
   {
     "doc_id": "doc_394",
-    "title": "Brain",
-    "category": "general_science"
+    "title": "Neural News Recommendation with Negative Feedback",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.04328",
+    "abstract_words": 250
   },
   {
     "doc_id": "doc_395",
-    "title": "Neuron",
-    "category": "general_science"
+    "title": "Reinforcement learning based recommender systems: A survey",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.06286",
+    "abstract_words": 213
   },
   {
     "doc_id": "doc_396",
-    "title": "Point (geometry)",
-    "category": "mathematics"
+    "title": "A Zero Attentive Relevance Matching Networkfor Review Modeling in   Recommendation System",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.06387",
+    "abstract_words": 200
   },
   {
     "doc_id": "doc_397",
-    "title": "Plane (mathematics)",
-    "category": "mathematics"
+    "title": "Robustness of Meta Matrix Factorization Against Strict Privacy   Constraints",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.06927",
+    "abstract_words": 128
   },
   {
     "doc_id": "doc_398",
-    "title": "List of astrophysicists",
-    "category": "general_science"
+    "title": "Density-Ratio Based Personalised Ranking from Implicit Feedback",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.07481",
+    "abstract_words": 213
   },
   {
     "doc_id": "doc_399",
-    "title": "List of languages",
-    "category": "general_science"
+    "title": "Templates of generic geographic information for answering   where-questions",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.08394",
+    "abstract_words": 150
   },
   {
     "doc_id": "doc_400",
-    "title": "List of emotions",
-    "category": "physics"
+    "title": "Fast Clustering of Short Text Streams Using Efficient Cluster Indexing   and Dynamic Similarity Thresholds",
+    "category": "cs.IR",
+    "year": "2021",
+    "created_at": "2021-01-01",
+    "arxiv_id": "2101.08595",
+    "abstract_words": 233
   }
 ]

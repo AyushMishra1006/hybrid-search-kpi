@@ -1,5 +1,5 @@
 """
-Ingestion pipeline: data/raw/*.txt → data/processed/docs.jsonl
+Ingestion pipeline: data/raw/*.txt + manifest.json -> data/processed/docs.jsonl
 
 Usage:
     python -m app.ingest --input data/raw --out data/processed
@@ -11,22 +11,30 @@ import json
 import sys
 from pathlib import Path
 
-SOURCE = "simple_wikipedia"
-CREATED_AT = "2022-03-01"
+SOURCE = "arxiv"
 
 
 def _parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Ingest raw .txt/.md files → docs.jsonl")
-    parser.add_argument("--input", required=True, help="Directory containing raw .txt/.md files")
+    parser = argparse.ArgumentParser(description="Ingest raw .txt/.md files -> docs.jsonl")
+    parser.add_argument("--input", required=True, help="Directory containing raw .txt/.md files + manifest.json")
     parser.add_argument("--out", required=True, help="Output directory for docs.jsonl")
     return parser.parse_args()
+
+
+def _load_manifest(input_dir: Path) -> dict[str, dict]:
+    """Load manifest.json keyed by doc_id. Returns empty dict if not found."""
+    manifest_path = input_dir / "manifest.json"
+    if not manifest_path.exists():
+        return {}
+    entries = json.loads(manifest_path.read_text(encoding="utf-8"))
+    return {e["doc_id"]: e for e in entries}
 
 
 def _parse_file(path: Path) -> tuple[str, str] | None:
     """
     Parse a raw article file.
     Expected format: Line 1 = 'TITLE: <title>', Lines 2+ = body text.
-    Returns (title, body_text) or None if file is malformed.
+    Returns (title, body_text) or None if malformed.
     """
     try:
         lines = path.read_text(encoding="utf-8").splitlines()
@@ -43,21 +51,21 @@ def _parse_file(path: Path) -> tuple[str, str] | None:
     return title, body
 
 
-def _make_doc_id(index: int) -> str:
-    return f"doc_{index:03d}"
-
-
 def ingest(input_dir: Path, out_dir: Path) -> int:
     """
     Read all .txt and .md files from input_dir, normalize, write docs.jsonl.
+    Reads category/year/created_at from manifest.json (not derived).
     Returns count of documents written.
     """
-    from app.utils.preprocessing import assign_category, clean_text, truncate_long_doc
+    from app.utils.preprocessing import clean_text, truncate_long_doc
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / "docs.jsonl"
 
+    manifest = _load_manifest(input_dir)
+
     raw_files = sorted(input_dir.glob("*.txt")) + sorted(input_dir.glob("*.md"))
+    raw_files = [f for f in raw_files if f.stem != "manifest"]
     if not raw_files:
         print(f"ERROR: No .txt or .md files found in {input_dir}", file=sys.stderr)
         sys.exit(1)
@@ -71,16 +79,18 @@ def ingest(input_dir: Path, out_dir: Path) -> int:
 
             title, raw_body = parsed
             text = truncate_long_doc(clean_text(raw_body))
-            category = assign_category(title)
-            doc_id = _make_doc_id(written + 1)
+
+            doc_id = f"doc_{written + 1:03d}"
+            meta = manifest.get(doc_id, {})
 
             record = {
                 "doc_id": doc_id,
                 "title": title,
                 "text": text,
                 "source": SOURCE,
-                "created_at": CREATED_AT,
-                "category": category,
+                "created_at": meta.get("created_at", "2017-01-01"),
+                "category": meta.get("category", "cs.LG"),
+                "year": meta.get("year", "2017"),
             }
             fh.write(json.dumps(record, ensure_ascii=False) + "\n")
             written += 1

@@ -14,43 +14,48 @@ from app.search.vector import VectorIndex
 _DOCS = [
     {
         "doc_id": "doc_001",
-        "title": "Machine Learning",
-        "text": "Machine learning is a subset of artificial intelligence using statistical methods",
-        "source": "simple_wikipedia",
-        "created_at": "2022-03-01",
-        "category": "computer_science",
+        "title": "Deep Reinforcement Learning: An Overview",
+        "text": "Reinforcement learning is a machine learning paradigm where agents learn by interacting with an environment using reward signals",
+        "source": "arxiv",
+        "created_at": "2017-01-01",
+        "category": "cs.LG",
+        "year": "2017",
     },
     {
         "doc_id": "doc_002",
-        "title": "Photosynthesis",
-        "text": "Photosynthesis converts sunlight into energy in plants using chlorophyll",
-        "source": "simple_wikipedia",
-        "created_at": "2022-03-01",
-        "category": "biology",
+        "title": "Attention Mechanisms in Neural Machine Translation",
+        "text": "Attention mechanisms allow sequence to sequence models to focus on relevant parts of the input when generating each output token",
+        "source": "arxiv",
+        "created_at": "2017-03-01",
+        "category": "cs.CL",
+        "year": "2017",
     },
     {
         "doc_id": "doc_003",
-        "title": "Quantum Mechanics",
-        "text": "Quantum mechanics describes behavior of particles at atomic and subatomic scale",
-        "source": "simple_wikipedia",
-        "created_at": "2022-03-01",
-        "category": "physics",
+        "title": "Convolutional Neural Networks for Image Recognition",
+        "text": "Convolutional networks learn hierarchical feature representations from raw pixel values enabling state of the art image classification",
+        "source": "arxiv",
+        "created_at": "2017-06-01",
+        "category": "cs.CV",
+        "year": "2017",
     },
     {
         "doc_id": "doc_004",
-        "title": "DNA and Genetics",
-        "text": "DNA carries genetic information in living cells through nucleotide base pairs",
-        "source": "simple_wikipedia",
-        "created_at": "2022-03-01",
-        "category": "biology",
+        "title": "Generative Adversarial Networks for Image Synthesis",
+        "text": "Generative adversarial networks train a generator and discriminator jointly to produce realistic synthetic images",
+        "source": "arxiv",
+        "created_at": "2017-09-01",
+        "category": "cs.CV",
+        "year": "2017",
     },
     {
         "doc_id": "doc_005",
-        "title": "Neural Networks",
-        "text": "Neural networks are computing systems inspired by biological neural networks in the brain",
-        "source": "simple_wikipedia",
-        "created_at": "2022-03-01",
-        "category": "computer_science",
+        "title": "Neural Information Retrieval with Dense Representations",
+        "text": "Dense retrieval models encode queries and documents into vector spaces and retrieve by approximate nearest neighbour search",
+        "source": "arxiv",
+        "created_at": "2017-11-01",
+        "category": "cs.IR",
+        "year": "2017",
     },
 ]
 
@@ -154,8 +159,8 @@ class TestSearchEndpoint:
         assert client.post("/search", json={"query": q}).json()["query"] == q
 
     def test_filters_applied_echoed(self, client: TestClient) -> None:
-        filters = {"category": "biology"}
-        data = client.post("/search", json={"query": "biology", "filters": filters}).json()
+        filters = {"category": "cs.LG"}
+        data = client.post("/search", json={"query": "reinforcement learning", "filters": filters}).json()
         assert data["filters_applied"] == filters
 
     def test_top_k_limits_results(self, client: TestClient) -> None:

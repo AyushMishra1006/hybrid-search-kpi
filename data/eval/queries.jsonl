@@ -1,25 +1,25 @@
-{"query_id": "q001", "query": "what is algebra and how are equations solved"}
-{"query_id": "q002", "query": "how do atoms and molecules form chemical compounds"}
-{"query_id": "q003", "query": "what is the theory of gravity and how does it work"}
-{"query_id": "q004", "query": "what is computer science and programming"}
-{"query_id": "q005", "query": "how does the internet and world wide web work"}
-{"query_id": "q006", "query": "what is biology and how do living cells function"}
-{"query_id": "q007", "query": "explain mathematics and number theory"}
-{"query_id": "q008", "query": "what is the solar system and planets"}
-{"query_id": "q009", "query": "how does photosynthesis work in plants"}
-{"query_id": "q010", "query": "what is physics and laws of motion and force"}
-{"query_id": "q011", "query": "what is chemistry and chemical elements"}
-{"query_id": "q012", "query": "how does evolution and genetics work"}
-{"query_id": "q013", "query": "what is machine learning and artificial intelligence"}
-{"query_id": "q014", "query": "what is calculus and how are derivatives calculated"}
-{"query_id": "q015", "query": "what are stars and black holes in the universe"}
-{"query_id": "q016", "query": "what is the periodic table of elements"}
-{"query_id": "q017", "query": "how does the human brain and neurons work"}
-{"query_id": "q018", "query": "what is software and how do operating systems work"}
-{"query_id": "q019", "query": "what is energy and how is it measured"}
-{"query_id": "q020", "query": "what is statistics and probability"}
-{"query_id": "q021", "query": "what is data compression and computer algorithms"}
-{"query_id": "q022", "query": "how does light and speed of light work"}
-{"query_id": "q023", "query": "what is linear algebra and matrices"}
-{"query_id": "q024", "query": "what is ecology and how do ecosystems work"}
-{"query_id": "q025", "query": "who was Alan Turing and what is the Turing test"}
+{"query_id": "q001", "query": "how does deep learning handle time series prediction and forecasting?"}
+{"query_id": "q002", "query": "generative deep learning for data synthesis and latent representation"}
+{"query_id": "q003", "query": "contextual bandit algorithms for exploration and active learning"}
+{"query_id": "q004", "query": "federated learning for privacy-preserving distributed model training"}
+{"query_id": "q005", "query": "compressing and pruning deep neural networks for efficient inference"}
+{"query_id": "q006", "query": "neural network approaches to machine translation"}
+{"query_id": "q007", "query": "sentiment analysis and opinion mining from user-generated text"}
+{"query_id": "q008", "query": "automatic text summarization using deep learning"}
+{"query_id": "q009", "query": "named entity recognition in natural language processing"}
+{"query_id": "q010", "query": "building dialogue systems for multi-turn conversation response selection"}
+{"query_id": "q011", "query": "semantic image segmentation using deep convolutional networks"}
+{"query_id": "q012", "query": "recognizing human actions and activities in video"}
+{"query_id": "q013", "query": "generating realistic human faces and poses using adversarial networks"}
+{"query_id": "q014", "query": "real-time object detection and classification in images"}
+{"query_id": "q015", "query": "image enhancement and denoising in low light conditions"}
+{"query_id": "q016", "query": "reinforcement learning agents trained to play games"}
+{"query_id": "q017", "query": "planning and sequential decision making under uncertainty in AI"}
+{"query_id": "q018", "query": "ethical constraints and value alignment for artificial intelligence systems"}
+{"query_id": "q019", "query": "knowledge representation and logical reasoning in AI"}
+{"query_id": "q020", "query": "question answering over structured knowledge bases"}
+{"query_id": "q021", "query": "deep learning for personalized item recommendation"}
+{"query_id": "q022", "query": "evaluation metrics and ranking quality in information retrieval"}
+{"query_id": "q023", "query": "neural retrieval models for document search and ranking"}
+{"query_id": "q024", "query": "detecting plagiarism and measuring academic document similarity"}
+{"query_id": "q025", "query": "searching and retrieving content from temporal web archives"}

@@ -3,35 +3,7 @@ from __future__ import annotations
 
 import re
 
-MAX_DOC_WORDS: int = 256
-
-CATEGORY_RULES: list[tuple[list[str], str]] = [
-    (
-        ["computer", "algorithm", "software", "internet", "robot",
-         "program", "data", "network", "digital", "computing"],
-        "computer_science",
-    ),
-    (
-        ["physics", "force", "gravity", "quantum", "atom",
-         "energy", "motion", "particle", "wave", "relativity"],
-        "physics",
-    ),
-    (
-        ["biology", "cell", "dna", "evolution", "gene",
-         "organism", "species", "animal", "plant", "protein"],
-        "biology",
-    ),
-    (
-        ["math", "geometry", "algebra", "calculus", "number",
-         "equation", "theorem", "prime", "statistic"],
-        "mathematics",
-    ),
-    (
-        ["chemistry", "element", "molecule", "reaction", "compound",
-         "acid", "periodic", "bond", "solution"],
-        "chemistry",
-    ),
-]
+MAX_DOC_WORDS: int = 300
 
 
 def clean_text(text: str) -> str:
@@ -50,7 +22,7 @@ def truncate_long_doc(text: str, max_words: int = MAX_DOC_WORDS) -> str:
 def highlight_snippet(text: str, query: str, context_words: int = 20) -> str:
     """
     Return a snippet of up to context_words words centred on the first query
-    term match, with matched tokens wrapped in <em>…</em>.
+    term match, with matched tokens wrapped in <em>...</em>.
     Falls back to the first context_words words if no match.
     """
     words = text.split()
@@ -74,12 +46,3 @@ def highlight_snippet(text: str, query: str, context_words: int = 20) -> str:
         for w in snippet_words
     ]
     return " ".join(highlighted) + ("..." if len(words) > context_words else "")
-
-
-def assign_category(title: str) -> str:
-    """Map article title to one of 6 science/tech categories."""
-    lower = title.lower()
-    for keywords, category in CATEGORY_RULES:
-        if any(kw in lower for kw in keywords):
-            return category
-    return "general_science"

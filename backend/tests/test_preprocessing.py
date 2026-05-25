@@ -3,7 +3,6 @@ import pytest
 
 from app.utils.preprocessing import (
     MAX_DOC_WORDS,
-    assign_category,
     clean_text,
     highlight_snippet,
     truncate_long_doc,
@@ -60,23 +59,3 @@ class TestHighlightSnippet:
     def test_empty_query_no_crash(self) -> None:
         result = highlight_snippet("some text here", "")
         assert isinstance(result, str)
-
-
-class TestAssignCategory:
-    def test_computer_science(self) -> None:
-        assert assign_category("Computer Algorithm") == "computer_science"
-
-    def test_physics(self) -> None:
-        assert assign_category("Quantum physics") == "physics"
-
-    def test_biology(self) -> None:
-        assert assign_category("DNA Evolution") == "biology"
-
-    def test_mathematics(self) -> None:
-        assert assign_category("Geometry and Algebra") == "mathematics"
-
-    def test_chemistry(self) -> None:
-        assert assign_category("Chemical Element") == "chemistry"
-
-    def test_fallback(self) -> None:
-        assert assign_category("History of Rome") == "general_science"
