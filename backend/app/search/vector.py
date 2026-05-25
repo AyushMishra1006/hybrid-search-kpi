@@ -13,7 +13,7 @@ from typing import Any
 import faiss
 import numpy as np
 
-MODEL_NAME: str = "paraphrase-MiniLM-L3-v2"  # BREAK(A): wrong model — index was built with BAAI/bge-small-en-v1.5
+MODEL_NAME: str = "BAAI/bge-small-en-v1.5"
 DIMENSION: int = 384
 # BGE v1.5 retrieval: queries use this prefix; documents are indexed without it
 QUERY_PREFIX: str = "Represent this sentence for searching relevant passages: "
