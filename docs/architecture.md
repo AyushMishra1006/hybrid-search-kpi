@@ -52,15 +52,16 @@
 1. **Ingest** — `python -m app.ingest --input data/raw --out data/processed`
    - Globs `*.txt` and `*.md` from `data/raw/`
    - Parses `TITLE:` line → `title`; rest → `text`
-   - Calls `clean_text()` + `truncate_long_doc(MAX_DOC_WORDS=256)`
-   - Assigns `category` from title keywords (`assign_category()`)
+   - Calls `clean_text()` + `truncate_long_doc(MAX_DOC_WORDS=300)`
+   - Reads `category`, `year`, `created_at` from `manifest.json` (real arXiv metadata)
    - Writes one JSON line per doc to `data/processed/docs.jsonl`:
-     `{doc_id, title, text, source, created_at, category}`
+     `{doc_id, title, text, source, created_at, category, year}`
 
 2. **Index** — `python -m app.index --input data/processed/docs.jsonl`
    - BM25: tokenizes `title + text`, fits `BM25Okapi`, serializes with `joblib`
-   - Vector: encodes `title + text` with `all-MiniLM-L6-v2` (384-dim), L2-normalizes,
-     stores in `faiss.IndexFlatIP`, writes `metadata.json`
+   - Vector: encodes documents with `BAAI/bge-small-en-v1.5` (384-dim, no query prefix),
+     queries encoded with BGE query prefix for asymmetric retrieval,
+     L2-normalizes → `faiss.IndexFlatIP` (inner product = cosine), writes `metadata.json`
 
 3. **API Startup** (FastAPI lifespan)
    - `VectorIndex.validate_metadata()` — checks model/dim against `metadata.json`
@@ -129,7 +130,7 @@ Every subsequent INSERT includes alpha explicitly.
 
 ```json
 {
-  "model_name": "all-MiniLM-L6-v2",
+  "model_name": "BAAI/bge-small-en-v1.5",
   "dimension": 384,
   "corpus_hash": "<sha256 of docs.jsonl>",
   "build_timestamp": "<ISO 8601>",
@@ -163,7 +164,7 @@ Guard: if all scores are equal → normalize to `[0.5, 0.5, ...]` (prevents Zero
 | Language | Python 3.11+ |
 | API | FastAPI + Uvicorn |
 | BM25 | rank-bm25 (BM25Okapi) |
-| Embeddings | sentence-transformers `all-MiniLM-L6-v2` (384-dim, CPU) |
+| Embeddings | sentence-transformers `BAAI/bge-small-en-v1.5` (384-dim, CPU, asymmetric retrieval) |
 | Vector index | faiss-cpu `IndexFlatIP` + L2-normalize = cosine similarity |
 | Index persistence | joblib (BM25), FAISS binary + JSON (vector) |
 | Database | SQLite (WAL mode) |

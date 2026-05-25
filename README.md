@@ -7,7 +7,7 @@ End-to-end Knowledge Search system with BM25 + semantic vector retrieval, a Fast
 ## Architecture
 
 ```
-data/raw/ (400 Wikipedia .txt files)
+data/raw/ (400 arXiv CS paper abstracts — cs.LG/cs.CL/cs.CV/cs.AI/cs.IR)
     └── app.ingest → data/processed/docs.jsonl
     └── app.index  → data/index/bm25/ + data/index/vector/
                          │
@@ -99,7 +99,7 @@ uvicorn app.api.main:app --host 0.0.0.0 --port 8000
 |-------|-----------|
 | Backend | Python 3.11+, FastAPI, Uvicorn |
 | BM25 | rank-bm25 (BM25Okapi) |
-| Embeddings | sentence-transformers `all-MiniLM-L6-v2` (384-dim) |
+| Embeddings | sentence-transformers `BAAI/bge-small-en-v1.5` (384-dim, asymmetric retrieval) |
 | Vector index | faiss-cpu, IndexFlatIP + L2-normalize = cosine similarity |
 | Storage | SQLite + local filesystem |
 | Frontend | React + Vite |
@@ -110,8 +110,10 @@ uvicorn app.api.main:app --host 0.0.0.0 --port 8000
 
 ## Dataset
 
-Simple English Wikipedia snapshot (`20220301.simple`), CC BY-SA license.
-400 science/technology articles committed to `data/raw/` — fully deterministic corpus, no internet download required at run time.
+400 arXiv CS paper abstracts sourced from `gfissore/arxiv-abstracts-2021` (HuggingFace), CC BY license.
+80 papers each from: `cs.LG` (ML), `cs.CL` (NLP), `cs.CV` (Vision), `cs.AI` (AI), `cs.IR` (IR).
+Committed to `data/raw/` — fully deterministic corpus, no internet download required at run time.
+Filterable by `category` (arXiv subcategory) and `year` via POST /search `filters` field.
 
 ---
 
