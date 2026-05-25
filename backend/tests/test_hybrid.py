@@ -69,9 +69,17 @@ class TestHybridNormalization:
         assert normed == pytest.approx([0.0, 0.5, 1.0])
 
     def test_minmax_nan_guard(self) -> None:
-        """Scenario C regression: all-equal scores must not produce NaN."""
+        """Scenario C regression: all-equal scores must not produce NaN.
+
+        Without the max==min guard, a query with zero BM25 hits produces
+        all-zero scores (span=0) → ZeroDivisionError → NaN hybrid scores
+        → eval metrics collapse. This test permanently locks that fix.
+        """
         normed = minmax_normalize([1.0, 1.0, 1.0])
         assert normed == [0.5, 0.5, 0.5]
+
+        normed_zeros = minmax_normalize([0.0, 0.0, 0.0])
+        assert normed_zeros == [0.5, 0.5, 0.5]
 
     def test_minmax_single_element(self) -> None:
         assert minmax_normalize([3.7]) == [0.5]

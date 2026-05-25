@@ -24,10 +24,16 @@ class SearchResult:
 
 
 def minmax_normalize(scores: list[float]) -> list[float]:
-    """Scale scores to [0, 1]. Returns [0.5, ...] if all scores are equal."""
+    """Scale scores to [0, 1]. Returns [0.5, ...] if all scores are equal.
+
+    The max == min guard is mandatory. A query with no BM25 keyword overlap
+    produces all-zero BM25 scores; without the guard, span = 0 causes
+    ZeroDivisionError, collapsing eval metrics to NaN across all queries.
+    Scenario C regression test (test_minmax_nan_guard) locks this path.
+    """
     min_s = min(scores)
     max_s = max(scores)
-    if max_s == min_s:
+    if max_s == min_s:  # divide-by-zero guard — do not remove
         return [0.5] * len(scores)
     span = max_s - min_s
     return [(s - min_s) / span for s in scores]
