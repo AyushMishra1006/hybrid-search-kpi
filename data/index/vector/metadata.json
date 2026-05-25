@@ -1,0 +1,7 @@
+{
+  "model_name": "BAAI/bge-small-en-v1.5",
+  "dimension": 384,
+  "corpus_hash": "71af50b6f4c9764b6392cf9998e5f52e3034ef75b82285b0b4f857cab39088d8",
+  "build_timestamp": "2026-05-24T14:15:32.422387+00:00",
+  "num_docs": 400
+}

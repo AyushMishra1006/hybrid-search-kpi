@@ -11,11 +11,7 @@ env/
 dist/
 build/
 
-# Generated index artifacts (rebuilt by up.sh)
-data/index/
-data/processed/
-
-# Keep raw corpus, eval data, and experiments.csv (committed to repo)
+# Keep raw corpus, eval data, experiments.csv, and pre-built indexes
 !data/raw/
 !data/eval/
 !data/metrics/experiments.csv
